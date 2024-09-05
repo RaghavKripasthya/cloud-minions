@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/cloud-minions/cloud-Labs-Solutions/main/Setting%20Up%20Cost%20Control%20with%20Quota/gsp651.sh
+curl -LO raw.githubusercontent.com/cloud-minions/main/Setting%20Up%20Cost%20Control%20with%20Quota/gsp651.sh
 
 sudo chmod +x gsp651.sh
 
