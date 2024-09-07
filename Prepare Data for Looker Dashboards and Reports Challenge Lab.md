@@ -1,6 +1,6 @@
 # Prepare Data for Looker Dashboards and Reports: Challenge Lab || [GSP346](https://www.cloudskillsboost.google/focuses/18116?parent=catalog) ||
 
-## Solution [here](https://youtu.be/nqm6FQTOICI)
+## Solution [here](https:https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
 
 ### Task 1. Create Looks
 
@@ -148,6 +148,6 @@ Busiest, Major Joint-Use Airports with Control Towers
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
+###PLEASE LIKE & SUBSCIBE FOR MORE UPDATES
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [CloudMinionsGCP]:https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
