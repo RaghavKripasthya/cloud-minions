@@ -143,6 +143,7 @@ location = "$REGION"
 #  --------   Call the Function  --------
 
 
+
 response = generate_text(project_id, location)
 
 print(response)
@@ -164,5 +165,8 @@ sleep 5
 
 
 /usr/bin/python3 /home/student/genai.py
+
+
+###PLEASE LIKE AND SUBSCRIBE 
 
 
