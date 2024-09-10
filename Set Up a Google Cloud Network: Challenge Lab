@@ -1,4 +1,4 @@
-Set Up a Google Cloud Network: Challenge Lab
+
 gcloud compute instances create us-test-01 \
 --subnet   \
 --zone  \
