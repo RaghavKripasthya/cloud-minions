@@ -10,3 +10,6 @@ gcloud compute instances create us-test-02 \
 --zone  \
 --machine-type e2-standard-2
 --tags ssh,http,rules
+
+####PLEASE LIKE & SUBSCRIBE FOR MORE UPDAATES #####
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
