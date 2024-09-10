@@ -1,11 +1,12 @@
+Set Up a Google Cloud Network: Challenge Lab
 gcloud compute instances create us-test-01 \
---subnet <subnet-a-hx5x> \
---zone <us-west1-a> \
+--subnet   \
+--zone  \
 --machine-type e2-standard-2 \
 --tags ssh,http,rules
 
-gcloud compute instances create us-test-01 \
---subnet <subnet-a-hx5x> \
---zone <us-west1-a> \
---machine-type e2-standard-2 \
+gcloud compute instances create us-test-02 \
+--subnet  \
+--zone  \
+--machine-type e2-standard-2
 --tags ssh,http,rules
