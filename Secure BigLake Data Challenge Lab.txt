@@ -1,4 +1,4 @@
-USER=student-04-b9efc6625bc3@qwiklabs.net
+USER=student-01-dab8465ef064@qwiklabs.net
 
 
 cat > service_account.py <<EOF
@@ -45,4 +45,9 @@ echo "---------------------"
 #----BACK TO TERMINAL > REPLACE PROJECT ID------
 bq query --use_legacy_sql=false \
 'SELECT *  EXCEPT(zip, latitude, ip_address, longitude)
-FROM `qwiklabs-gcp-02-e197d4768b8b.online_shop.user_online_sessions`;'
+FROM `qwiklabs-gcp-01-d74638de088a.online_shop.user_online_sessions`;'
+
+
+⬇️⬇️⬇️⬇️⬇️👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
+####PLEASE LIKE & SUBSCRIBE CLOUDMINIONSGCP FOR MORE UPDATES!!!!##########
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
