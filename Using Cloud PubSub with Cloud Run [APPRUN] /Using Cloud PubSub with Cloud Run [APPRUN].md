@@ -8,7 +8,7 @@
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Using%20Cloud%20PubSub%20with%20Cloud%20Run%20%5BAPPRUN%5D/shell.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Using%20Cloud%20PubSub%20with%20Cloud%20Run%20%5BAPPRUN%5D/shell.sh
 
 sudo chmod +x shell.sh
 
