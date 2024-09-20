@@ -1,6 +1,6 @@
 # [Using Cloud PubSub with Cloud Run APPRUN](https://www.cloudskillsboost.google/course_templates/371/labs/495879)
 
-## Solution [here]()
+## Solution [here](https://youtu.be/tyobtdmHj8s)
 
 ### Run the following Commands in CloudShell
 
@@ -16,3 +16,6 @@ sudo chmod +x shell.sh
 ```
 
 ### Congratulations
+### PLEASE LIKE & SUBSCRIBE FOR UPDATES !!!!
+⬇️⬇️👇🏼👇🏼👇🏼👇🏼
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
