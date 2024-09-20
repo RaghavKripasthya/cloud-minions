@@ -1,6 +1,6 @@
 # [Develop an App with Vertex AI Gemini 1.0 Pro](https://www.cloudskillsboost.google/focuses/86788?parent=catalog)
 
-## Solution [here](https://youtu.be/c1DGOyzcDig)
+## Solution [here]()
 
 ### Run the following Commands in CloudShell
 
@@ -15,12 +15,4 @@ sudo chmod +x shell.sh
 ./shell.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations 
