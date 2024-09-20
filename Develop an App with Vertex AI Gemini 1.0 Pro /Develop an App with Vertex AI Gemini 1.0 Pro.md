@@ -1,6 +1,6 @@
 # [Develop an App with Vertex AI Gemini 1.0 Pro](https://www.cloudskillsboost.google/focuses/86788?parent=catalog)
 
-## Solution [here]()
+## Solution [here](https://youtu.be/HZu_Rjdc0YE)
 
 ### Run the following Commands in CloudShell
 
@@ -15,4 +15,7 @@ sudo chmod +x shell.sh
 ./shell.sh
 ```
 
-### Congratulations 
+### Congratulations !!!
+###PLEASE LIKE AND SUBSCRIBE FOR MORE UPDATES !!!
+⬇️👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️⬇️⬇️⬇️⬇️👇🏼👇🏼👇🏼👇🏼
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
