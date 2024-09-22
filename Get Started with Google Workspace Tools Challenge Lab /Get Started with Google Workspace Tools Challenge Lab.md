@@ -1,6 +1,6 @@
 # Get Started with Google Workspace Tools: Challenge Lab || [GSP376](https://www.cloudskillsboost.google/focuses/39167?parent=catalog) ||
 
-## Solution [here](https://youtu.be/t93hJjIYUWo)
+## Solution [here]()
 
 ### Task 1. Create your signature
 
@@ -8,9 +8,9 @@
 
 2. In the `General` tab, scroll down to the `Signature` section and click `Create New`.
 
-3. Give this signature `quickgcplab` name, then click `Create`.
+3. Give this signature `cloudminionsGCP` name, then click `Create`.
 
-4. In the Signature defaults section, use the dropdown menu under `For New Emails Use` and select `quickgcplab`.
+4. In the Signature defaults section, use the dropdown menu under `For New Emails Use` and select `cloudminionGCP`.
 
 * Paste the following
 
@@ -96,18 +96,10 @@ Comments
 
 2. Select `App` > `Blank app`.
 
-3. For `App name`, type `quickgcplab` to name your app.
+3. For `App name`, type `cloudminionsGCP` to name your app.
 
 4. For `Category`, select `Education & Training` from the list.
 
 5. Click `Create app`
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations 
