@@ -2,7 +2,7 @@
 
 ### Adding a Phone Gateway to a Virtual Agent | [GSP793](http://cloudskillsboost.google/focuses/12038?parent=catalog)
 
-###  **Solution Video:** [Watch Here](https://youtu.be/mqhU55z07is)
+### 😊 **Solution Video:** [Watch Here](https://youtu.be/3YHEQ7aONFA)
 
 
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Adding%20a%20Phone%20Gateway%20to%20a%20Virtual%20Agent/cloudminionsgcp.sh
@@ -23,6 +23,13 @@ sudo chmod +x cloudminionsgcp.sh
 
 
 ## Now Follow the Video.
+
+## CONGRATULATIONS !!! COMPLETED THE LAB !❤️😊
+## PLEASE LIKE & SUBSCRIBE FOR MORE SUCH CONTENTS !!
+⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼
+
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
+
 
 
 
