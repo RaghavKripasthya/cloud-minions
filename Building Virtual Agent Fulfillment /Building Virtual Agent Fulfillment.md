@@ -128,12 +128,6 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
 }
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations 
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
