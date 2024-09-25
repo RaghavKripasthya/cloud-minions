@@ -8,6 +8,7 @@ sudo chmod +x cloudminionsgcp.sh
 
 ./cloudminionsgcp.sh
 
+## CONGRULATIONS !! COMPLETED THE LAB !!
 
 ## PLEASE LIKE & SUBSCRIBE FOR MORE UPDATES !!!!
 ⬇️👇🏼⬇️👇🏼⬇️👇🏼👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼
