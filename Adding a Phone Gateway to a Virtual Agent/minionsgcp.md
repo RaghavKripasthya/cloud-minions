@@ -19,7 +19,7 @@ sudo chmod +x cloudminionsgcp.sh
 
 - Go to  [Dialogflow Console](https://dialogflow.cloud.google.com/)
 
-- Click  [Download File](https://github.com/quiccklabs/Labs_solutions/blob/master/Adding%20a%20Phone%20Gateway%20to%20a%20Virtual%20Agent/pigeon-travel-gsp-793-cloud-function/quicklab.zip) 
+- Click  [Download File](https://github.com/RaghavKripasthya/cloud-minions/blob/main/Adding%20a%20Phone%20Gateway%20to%20a%20Virtual%20Agent/pigeon-travel-gsp-793-cloud-function/cloudminionsgcp.zip) 
 
 
 ## Now Follow the Video.
