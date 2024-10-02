@@ -1,6 +1,6 @@
 # Assessing Data Quality with Dataplex || [GSP1158](https://www.cloudskillsboost.google/focuses/67211?parent=catalog) ||
 
-## Solution [here](https://youtu.be/vi2m0GWpZa0)
+##😊 Solution [here](https://youtu.be/6HSOlIzb_GY)
 
 ### Run the following Commands in CloudShell
 
@@ -29,3 +29,6 @@ sudo chmod +x gsp1158.sh
 
 
 ### Congratulations 
+### Do Like & Subscribe My Channel for more Updates On Tech & Cloud platforms
+⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼👇🏼⬇️👇🏼👇🏼⬇️⬇️⬇️👇🏼⬇️👇🏼
+## https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
