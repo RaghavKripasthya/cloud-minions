@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Assessing%20Data%20Quality%20with%20Dataplex/gsp1158.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Assessing%20Data%20Quality%20with%20Dataplex/gsp1158.sh
 
 sudo chmod +x gsp1158.sh
 
@@ -28,12 +28,4 @@ sudo chmod +x gsp1158.sh
 * Go to `Create task` from [here](https://console.cloud.google.com/dataplex/process/create-task/data-quality?)
 
 
-### Congratulations 🎉 for Completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations 
