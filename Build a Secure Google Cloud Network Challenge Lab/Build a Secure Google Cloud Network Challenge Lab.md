@@ -1,6 +1,6 @@
 # Build a Secure Google Cloud Network: Challenge Lab || [GSP322](https://www.cloudskillsboost.google/focuses/12068?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/UrjqmMDMf-Q)
 
 ### Run the following Commands in CloudShell
 ```
@@ -17,4 +17,8 @@ sudo chmod +x gsp322.sh
 ./gsp322.sh
 ```
 
-### Congratulations 
+### Congratulations!!
+## PLEASE LIKE AND SUBSCRIBE FOR UPDATES ON CLOUD SOLUTIONS AND TECH !!!
+⬇️👇🏼⬇️👇🏼⬇️⬇️⬇️👇🏼👇🏼👇🏼👇🏼⬇️👇🏼⬇️
+
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
