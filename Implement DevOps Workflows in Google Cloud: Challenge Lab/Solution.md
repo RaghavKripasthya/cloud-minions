@@ -9,7 +9,7 @@ export REPO=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/gcpsolution99/GCP-solution/main/GSP/GSP330.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/GSP/GSP330.sh
 sudo chmod +x GSP330.sh
 ./GSP330.sh
 ```
