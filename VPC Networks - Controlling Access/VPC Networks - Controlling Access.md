@@ -1,6 +1,6 @@
 # VPC Networks - Controlling Access || [GSP213](https://www.cloudskillsboost.google/focuses/1231?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/E74HucPvWtM)
 
 ### Run the following Commands in CloudShell
 ```
@@ -14,4 +14,9 @@ sudo chmod +x gsp213.sh
 ./gsp213.sh
 ```
 
-### Congratulations
+### Congratulations !!
+## PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE UPDATES !!
+
+👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼⬇️👇🏼😊❤️
+
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
