@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Assessing%20Data%20Quality%20with%20Dataplex/gsp1158.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Assessing%20Data%20Quality%20with%20Dataplex/gsp1158.sh
 
 sudo chmod +x gsp1158.sh
 
