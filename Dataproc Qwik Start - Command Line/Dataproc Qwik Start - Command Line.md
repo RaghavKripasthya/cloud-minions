@@ -1,6 +1,6 @@
 # Dataproc: Qwik Start - Command Line || [GSP104](https://www.cloudskillsboost.google/focuses/585?parent=catalog) ||
 
-## Solution [here]()
+## 😊Solution [here](https://youtu.be/yJR41OesrMM)
 
 ### Run the following Commands in CloudShell
 
@@ -16,5 +16,9 @@ sudo chmod +x gsp104.sh
 ```
 
 ### Congratulations !!!
+## PLEASE DO LIKE & SUBSCRIBE FOR MORE UPDATES ON DEVLABS.AI !!
+👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️❤️😊
+
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
 
 
