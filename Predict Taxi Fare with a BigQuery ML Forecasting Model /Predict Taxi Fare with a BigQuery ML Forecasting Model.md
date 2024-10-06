@@ -1,6 +1,6 @@
 # Predict Taxi Fare with a BigQuery ML Forecasting Model || [GSP246](https://www.cloudskillsboost.google/focuses/1797?parent=catalog) ||
 
-## Solution [here](https://youtu.be/LQy1Mmht7kc)
+## Solution [here]()
 
 ### Run the following Commands in CloudShell
 
@@ -12,12 +12,4 @@ sudo chmod +x gsp246.sh
 ./gsp246.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations 
