@@ -7,7 +7,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Introduction%20to%20Docker/gsp055.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Introduction%20to%20Docker/gsp055.sh
 
 sudo chmod +x gsp055.sh
 
