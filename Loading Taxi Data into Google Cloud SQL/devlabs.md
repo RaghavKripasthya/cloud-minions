@@ -1,7 +1,7 @@
 
 ## Lab Link: [Loading Taxi Data into Google Cloud SQL](https://www.cloudskillsboost.google/focuses/35625?parent=game)|
 
-##  Lab Solution [Watch Here]()
+##  😊Lab Solution [Watch Here]()
 
 
 
@@ -42,4 +42,8 @@ create table trips (
 );
 ```
 
-### Congratulations
+### Congratulations!!
+## PLEASE DO LIKE AND SUBSCRIBE DEVLAB.AI FOR MORE UPDATES !!
+👇🏼👇🏼❤️😊
+
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
