@@ -1,6 +1,6 @@
 # Cloud Functions: Qwik Start - Console || [GSP081](https://www.cloudskillsboost.google/focuses/1763?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/DvgonobdWZA)
 
 ### Run the following Commands in CloudShell
 ```
@@ -19,3 +19,4 @@ sudo chmod +x gsp081.sh
 ## PLEASE DO LIKE AND SUBSCRIBE MY CHANNEL FOR SUCH CONTENTS !!
 
 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️👇🏼👇🏼👇🏼👇🏼👇🏼
+https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
