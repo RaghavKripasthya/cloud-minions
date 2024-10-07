@@ -6,7 +6,7 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/Raghavvkripasthya/cloud-minions/main/Loading%20Taxi%20Data%20into%20Google%20Cloud%20SQL/cloudminions.sh
+curl -LO raw.githubusercontent.com/Raghavkripasthya/cloud-minions/main/Loading%20Taxi%20Data%20into%20Google%20Cloud%20SQL/cloudminions.sh
 sudo chmod +x cloudminions.sh
 ./cloudminions.sh
 ```
