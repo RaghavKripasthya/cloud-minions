@@ -1,6 +1,6 @@
 # Cloud DNS: Traffic Steering using Geolocation Policy || [GSP1008](https://www.cloudskillsboost.google/focuses/28525?parent=catalog) ||
 
-## Solution [here](https://youtu.be/RFGbwUweWVo)
+## Solution [here](h)
 
 ### Run the following Commands in CloudShell
 
@@ -17,12 +17,4 @@ sudo chmod +x gsp1008.sh
 ./gsp1008.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations 
