@@ -1,7 +1,7 @@
 
 ##  Lab Link: [Analyzing Network Traffic with VPC Flow Logs](https://www.cloudskillsboost.google/focuses/45798?parent=catalog)
 
-##  Lab Solution [Watch Here](https://youtu.be/eJ9OP66a38g)
+## 😊 Lab Solution [Watch Here](https://youtu.be/6gJKRfPLVI8)
 
 
 
@@ -22,7 +22,7 @@ sudo chmod +x devlabsai.sh
 ```
 ---
 
-## Now please watch the video carefully and follow the instructions
+## 😊Now please watch the video carefully and follow the instructions
 
 ---
 
@@ -34,4 +34,9 @@ export MY_SERVER=$CP_IP
 for ((i=1;i<=50;i++)); do curl $MY_SERVER; done
 ```
 
-### Congratulations
+### Congratulations!!
+ ## PLEASE DO LIKE AND SUBSCRIBE FOR MORE UPDATES ON DEVLABS.AI !!👇🏼👇🏼👇🏼
+
+ 👇🏼👇🏼👇🏼👇🏼⬇️❤️😊
+
+ Subscribe [Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
