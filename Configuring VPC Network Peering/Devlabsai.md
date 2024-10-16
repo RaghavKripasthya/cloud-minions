@@ -109,4 +109,4 @@ sudo chmod +x devlabsai.sh
 ## congratulations!!
 ## PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!😊❤️👇🏼👇🏼
 👇🏼😊
-## SUBSCRIBE [LINK HERE](https://youtu.be/MXRZzqNbcU8)
+## SUBSCRIBE [LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
