@@ -1,8 +1,8 @@
 
 
-## Configuring VPC Network Peering | [Lab Link](https://www.cloudskillsboost.google/focuses/19159?parent=catalog)
+## Configuring VPC Network Peering [Lab Link](https://www.cloudskillsboost.google/focuses/19159?parent=catalog)
 
-###  **Solution Video:** [Watch Here]()
+###  **Solution Video:** [Watch Here](https://youtu.be/MXRZzqNbcU8)
 
 
 
@@ -107,3 +107,6 @@ sudo chmod +x devlabsai.sh
 ---
 
 ## congratulations!!
+## PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!😊❤️👇🏼👇🏼
+👇🏼😊
+## SUBSCRIBE [LINK HERE](https://youtu.be/MXRZzqNbcU8)
