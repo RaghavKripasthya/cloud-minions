@@ -1,6 +1,6 @@
 # Terraform Fundamentals || [GSP156](https://www.cloudskillsboost.google/focuses/1208?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/kfir396Ow3g)
 
 ```
 export ZONE=
@@ -14,5 +14,7 @@ sudo chmod +x gsp156.sh
 ```
 
 ### Congratulations !!
-
+## PLEASE DO LIKE ANS SUBSCRIBE DEVLABS.AI !!😊
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+## SUBSCRIBE[Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
 
