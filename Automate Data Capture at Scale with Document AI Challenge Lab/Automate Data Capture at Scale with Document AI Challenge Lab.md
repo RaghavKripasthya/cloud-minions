@@ -1,6 +1,6 @@
 # Automate Data Capture at Scale with Document AI: Challenge Lab || [GSP367](https://www.cloudskillsboost.google/focuses/34185?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/p7TlNgj84ws)
 
 
 ```
@@ -15,3 +15,6 @@ sudo chmod +x gsp367.sh
 ```
 
 ### Congratulations!!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI !!
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊😊😊❤️
+## Subscribe[Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
