@@ -1,6 +1,6 @@
 # [Implement continuous delivery with Gemini](https://www.cloudskillsboost.google/course_templates/882/labs/476337)
 
-## Solution [here]()
+## Solution [here](https://youtu.be/nIBsu9PbVvY)
 
 
 ```
