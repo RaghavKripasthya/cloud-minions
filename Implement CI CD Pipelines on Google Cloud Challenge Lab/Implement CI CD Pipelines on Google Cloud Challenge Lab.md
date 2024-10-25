@@ -1,6 +1,6 @@
 # Implement CI/CD Pipelines on Google Cloud: Challenge Lab || [GSP393](https://www.cloudskillsboost.google/focuses/52826?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/2LSeop2pLcs)
 
 
 ```
@@ -15,3 +15,6 @@ sudo chmod +x gsp393.sh
 ```
 
 ### Congratulations!!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI !!!👇🏼👇🏼😝😝
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😝😊❤️
+## SUBSCRIBE[LINK Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
