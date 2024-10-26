@@ -1,6 +1,6 @@
 # Exploring Dataset Metadata Between Projects with Data Catalog || [GSP789](https://www.cloudskillsboost.google/focuses/11034?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/JV-O44fnyLI)
 
 ```
 export PROJECT_ID_2=
@@ -75,3 +75,6 @@ SELECT * FROM male;
 
 
 ### Congratulations !!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI!!👇🏼👇🏼😊❤️
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+## SUBSCRIBE[link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
