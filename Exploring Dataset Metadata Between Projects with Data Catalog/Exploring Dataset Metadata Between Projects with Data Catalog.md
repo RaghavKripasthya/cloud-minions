@@ -13,9 +13,7 @@ sudo chmod +x gsp789.sh
 
 ./gsp789.sh
 ```
-
-### Run the following Query in `BigQuery` ( `Project-1` Or `NYC Bike Share Project` )
-
+## Run This on Bigquery !!
 ```
 WITH unknown AS (
   SELECT
