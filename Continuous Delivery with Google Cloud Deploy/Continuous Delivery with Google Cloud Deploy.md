@@ -1,6 +1,6 @@
 # Continuous Delivery with Google Cloud Deploy || [GSP1079](https://www.cloudskillsboost.google/focuses/52828?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/RGK9erD-apc)
 
 
 ```
@@ -15,3 +15,6 @@ sudo chmod +x gsp1079.sh
 ```
 
 ### Congratulations !!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI FOR MORE !!👇🏼👇🏼👇🏼👇🏼😊
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊😊❤️
+## Subscribe [Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
