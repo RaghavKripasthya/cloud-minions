@@ -12,5 +12,5 @@ sudo chmod +x gsp411.sh
 ```
 
 ### Congratulations !!
-## PLEASE DO LUKE AND SUBSCRIBE FOR DEVLABS.AI !!!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI !!!
 ## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊😊❤️
