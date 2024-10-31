@@ -1,6 +1,6 @@
 # Cloud Functions 2nd Gen: Qwik Start || [GSP1089](https://www.cloudskillsboost.google/focuses/49757?parent=catalog) ||
 
-## Solution [here](https://youtu.be/WWFzCrPHsCk)
+## Solution [here](https://youtu.be/ZEhM8Ete7x4)
 
 
 ```
@@ -25,3 +25,6 @@ sudo chmod +x step2.sh
 ```
 
 ### Congratulations !!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI FOR MORE!!👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+## SUBSCRIBE [LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
