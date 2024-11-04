@@ -1,6 +1,6 @@
 # Pub/Sub: Qwik Start - Command Line || [GSP095](https://www.cloudskillsboost.google/focuses/925?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/K9TZqk4Iut0)
 
 ```
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/PubSub%20Qwik%20Start%20-%20Command%20Line/gsp095.sh
