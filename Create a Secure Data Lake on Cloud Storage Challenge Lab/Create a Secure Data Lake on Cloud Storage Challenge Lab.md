@@ -50,7 +50,7 @@ sudo chmod +x type2.sh
 * **Now check your progress, You will get score for all tasks..**
 ---
 
-### For form 3: Solution [here]()
+### For type 3: Solution [here]()
 ---
 
 * **Task 1. Create a BigQuery dataset.**
@@ -71,10 +71,10 @@ sudo chmod +x type3.sh
 ./type3.sh
 ```
 
-* **For Task 4. Follow Video's Instruction from [here](https://youtu.be/HxznRWJFxgA?t=97)**
+* **For task 4. Follow Video's Instruction from [here](https://youtu.be/HxznRWJFxgA?t=97)**
 ---
 
-### For form 4: Solution [here]()
+### For type 4: Solution [here]()
 ---
 
 * **Task 1. Create a lake in Dataplex and add a zone to your lake.**
