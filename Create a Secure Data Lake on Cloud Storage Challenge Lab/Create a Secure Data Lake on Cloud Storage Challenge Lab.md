@@ -1,9 +1,8 @@
-# Create a Secure Data Lake on Cloud Storage: Challenge Lab || [ARC119](https://www.cloudskillsboost.google/focuses/63857?parent=catalog) ||
+# Create a Secure Data Lake on Cloud Storage: Challenge Lab || [ARC119](https://www.cloudskillsboost.google/focuses/63857?parent=catalog)||
 
-* **Note Before Starting The Execution Check and Match Your `Task 1 & Task 4` From Below and Your Instruction page..**
 ---
 
-### For form 1: Solution [here](https://youtu.be/Raqvt8jvfRw)
+### For type 1: Solution [here]()
 ---
 
 * **Task 1. Create a Cloud Storage bucket.**
@@ -17,17 +16,17 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form1.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/type1.sh
 
-sudo chmod +x form1.sh
+sudo chmod +x type1.sh
 
-./form1.sh
+./type1.sh
 ```
 
 * **Now check your progress, You will get score for all tasks...**
 ---
 
-### For form 2: Solution [here]()
+### For type 2: Solution [here]()
 ---
 
 * **Task 1. Create a lake in Dataplex and add a zone to your .**
@@ -41,17 +40,17 @@ sudo chmod +x form1.sh
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form2.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/type2.sh
 
-sudo chmod +x form2.sh
+sudo chmod +x type2.sh
 
-./form2.sh
+./type2.sh
 ```
 
 * **Now check your progress, You will get score for all tasks..**
 ---
 
-### For form 3: Solution [here](https://youtu.be/HxznRWJFxgA)
+### For form 3: Solution [here]()
 ---
 
 * **Task 1. Create a BigQuery dataset.**
@@ -65,17 +64,17 @@ sudo chmod +x form2.sh
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form3.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/type3.sh
 
-sudo chmod +x form3.sh
+sudo chmod +x type3.sh
 
-./form3.sh
+./type3.sh
 ```
 
 * **For Task 4. Follow Video's Instruction from [here](https://youtu.be/HxznRWJFxgA?t=97)**
 ---
 
-### For form 4: Solution [here](https://youtu.be/tK9bk6wG0aQ)
+### For form 4: Solution [here]()
 ---
 
 * **Task 1. Create a lake in Dataplex and add a zone to your lake.**
@@ -89,21 +88,14 @@ sudo chmod +x form3.sh
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form4.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/type4.sh
 
-sudo chmod +x form4.sh
+sudo chmod +x type4.sh
 
-./form4.sh
+./type4.sh
 ```
 
 * **For Task 4. Follow Video's Instruction from [here](https://youtu.be/tK9bk6wG0aQ?t=65)**
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations !!
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
