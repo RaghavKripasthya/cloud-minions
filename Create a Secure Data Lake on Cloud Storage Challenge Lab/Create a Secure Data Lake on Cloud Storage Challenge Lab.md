@@ -2,7 +2,7 @@
 
 ---
 
-### For type 1: Solution [here]()
+### For type 1: Solution [here](https://youtu.be/tqaxKc0XyTo)
 ---
 
 * **Task 1. Create a Cloud Storage bucket.**
@@ -10,7 +10,6 @@
 * **Task 3. Environment Creation for Dataplex Lake.**
 * **Task 4. Create a tag template (Storage bucket).**
 
-### Run the following Commands in CloudShell
 
 ```
 export ZONE=
@@ -23,7 +22,7 @@ sudo chmod +x type1.sh
 ./type1.sh
 ```
 
-* **Now check your progress, You will get score for all tasks...**
+* **Now check you will get score for all tasks...**
 ---
 
 ### For type 2: Solution [here]()
@@ -34,7 +33,7 @@ sudo chmod +x type1.sh
 * **Task 3. Attach an existing Cloud Storage bucket to the zone.**
 * **Task 4. Create a tag template (Storage bucket).**
 
-### Run the following Commands in CloudShell
+
 
 ```
 export ZONE=
@@ -47,7 +46,7 @@ sudo chmod +x type2.sh
 ./type2.sh
 ```
 
-* **Now check your progress, You will get score for all tasks..**
+* **Now check, You will get score for all tasks..**
 ---
 
 ### For type 3: Solution [here]()
@@ -58,7 +57,6 @@ sudo chmod +x type2.sh
 * **Task 3. Attach an existing BigQuery Dataset to the Lake.**
 * **Task 4. Create a tag template (BigQuery Dataset).**
 
-### Run the following Commands in CloudShell
 
 ```
 export ZONE=
@@ -71,7 +69,7 @@ sudo chmod +x type3.sh
 ./type3.sh
 ```
 
-* **For task 4. Follow Video's Instruction from [here](https://youtu.be/HxznRWJFxgA?t=97)**
+* **For task 4. Follow Video's Instruction from [here]()**
 ---
 
 ### For type 4: Solution [here]()
@@ -82,7 +80,6 @@ sudo chmod +x type3.sh
 * **Task 3. Attach an existing BigQuery Dataset to the Lake.**
 * **Task 4. Create Entities.**
 
-### Run the following Commands in CloudShell
 
 ```
 export ZONE=
@@ -95,7 +92,10 @@ sudo chmod +x type4.sh
 ./type4.sh
 ```
 
-* **For Task 4. Follow Video's Instruction from [here](https://youtu.be/tK9bk6wG0aQ?t=65)**
+* **For Task 4. Follow Video's Instruction from [here]()**
 
 ### Congratulations !!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI FOR MORE !!!👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️😊❤️
+## SUBSCRIBE[LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
 
