@@ -49,7 +49,7 @@ sudo chmod +x type2.sh
 * **Now check, You will get score for all tasks..**
 ---
 
-### For type 3: Solution [here]()
+### For type 3: Solution [here](https://youtu.be/zmy_k-ZCJok)
 ---
 
 * **Task 1. Create a BigQuery dataset.**
@@ -69,7 +69,7 @@ sudo chmod +x type3.sh
 ./type3.sh
 ```
 
-* **For task 4. Follow Video's Instruction from [here]()**
+* **For task 4. Follow Video's Instruction from [here](https://youtu.be/zmy_k-ZCJok)**
 ---
 
 ### For type 4: Solution [here](https://youtu.be/xUjQ_rYSWzA)
