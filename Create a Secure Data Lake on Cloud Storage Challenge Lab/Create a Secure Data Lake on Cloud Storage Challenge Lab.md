@@ -72,7 +72,7 @@ sudo chmod +x type3.sh
 * **For task 4. Follow Video's Instruction from [here]()**
 ---
 
-### For type 4: Solution [here]()
+### For type 4: Solution [here](https://youtu.be/xUjQ_rYSWzA)
 ---
 
 * **Task 1. Create a lake in Dataplex and add a zone to your lake.**
@@ -92,7 +92,7 @@ sudo chmod +x type4.sh
 ./type4.sh
 ```
 
-* **For Task 4. Follow Video's Instruction from [here]()**
+* **For Task 4. Follow Video's Instruction from [here](https://youtu.be/xUjQ_rYSWzA)**
 
 ### Congratulations !!
 ## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI FOR MORE !!!👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
