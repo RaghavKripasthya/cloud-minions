@@ -28,7 +28,7 @@ echo "${BG_MAGENTA}${BOLD}Starting Execution${RESET}"
 cat > email-channel.json <<EOF_END
 {
   "type": "email",
-  "displayName": "quickgcplab",
+  "displayName": "Devlabsai",
   "description": "Awesome",
   "labels": {
     "email_address": "$USER_EMAIL"
@@ -44,7 +44,7 @@ email_channel_id=$(echo "$email_channel_info" | grep -oP 'name: \K[^ ]+' | head 
 
 cat > quickgcplab.json <<EOF_END
 {
-  "displayName": "quickgcplab",
+  "displayName": "Devlabsai",
   "userLabels": {},
   "conditions": [
     {
