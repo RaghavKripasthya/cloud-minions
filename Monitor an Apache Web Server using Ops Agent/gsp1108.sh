@@ -142,6 +142,6 @@ EOF_END
 # Create the alert policy
 gcloud alpha monitoring policies create --policy-from-file=vm-alert-policy.json
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing, The Lab Please do like and subscribe DEVLABS.ai  !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
