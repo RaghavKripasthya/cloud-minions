@@ -1,6 +1,6 @@
 # Classify Images of Clouds in the Cloud with AutoML Images || [GSP223](https://www.cloudskillsboost.google/focuses/8406?parent=catalog) ||
 
-## Solution [here](https://youtu.be/oVRkruz0t28)
+## Solution [here]()
 
 
 ```
@@ -16,3 +16,6 @@ clouds
 ```
 
 ### Congratulations !!
+## PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI !!!👇🏼👇🏼👇🏼👇🏼😊❤️
+##  👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️❤️⬇️
+## SUBSCRIBE[Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
