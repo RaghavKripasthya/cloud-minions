@@ -55,4 +55,7 @@ gsutil acl ch -u AllUsers:R gs://$PROJECT_ID/city.png
 
 echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
 
+echo "${RED}${BOLD}Do Like & ${RESET}" "${WHITE}${BOLD}SUBSCRIBE For${RESET}" "${GREEN}${BOLD}DevLabs.ai !!!${RESET}"
+
+
 #-----------------------------------------------------end----------------------------------------------------------#
