@@ -25,4 +25,4 @@ sudo chmod +x arc116-2.sh
 ### Congratulations 
 ### PLEASE DO LIKE AND SUBSCRIBE FOR DEVLABS.AI FOR MORE UPDATES !! 
 ## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️😊❤️
-## SUBSCRIBE[Link Here]()
+## SUBSCRIBE[Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
