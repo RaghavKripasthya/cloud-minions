@@ -356,6 +356,6 @@ curl --request POST \
   -H "X-Goog-User-Project: $DEVSHELL_PROJECT_ID" \
   "https://dlp.googleapis.com/v2/projects/$DEVSHELL_PROJECT_ID/locations/global/jobTriggers/dlp_job:activate"
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab || Please Do Like And Subscribe For DevLabs.ai for More ❤️😊!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
