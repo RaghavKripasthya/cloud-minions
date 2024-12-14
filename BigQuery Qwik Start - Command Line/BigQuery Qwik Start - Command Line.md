@@ -1,6 +1,6 @@
 # BigQuery: Qwik Start - Command Line || [GSP071](https://www.cloudskillsboost.google/focuses/577?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/Te3JjgRWV4s)
 
 ```
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/BigQuery%20Qwik%20Start%20-%20Command%20Line/gsp071.sh
