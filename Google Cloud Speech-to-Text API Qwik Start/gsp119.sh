@@ -42,6 +42,6 @@ curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json 
 curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json \
 "https://speech.googleapis.com/v1/speech:recognize?key=${API_KEY}" > result.json
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab DO LIKE & SUBSCRIBE DEVLABS.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
