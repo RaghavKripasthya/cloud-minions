@@ -29,6 +29,6 @@ gcloud pubsub topics create myTopic
 
 gcloud  pubsub subscriptions create --topic myTopic MySub
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab || DO LIKE & SUBSCRIBE DevLabs.ai For More!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
