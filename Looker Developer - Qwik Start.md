@@ -1,7 +1,7 @@
 
 # ```Looker Developer - Qwik Start```
 
-### Solutions FOR Lab{here]()
+### Solutions FOR Lab[here]()
 
 
 ***Select Create View. Name the file ***```users_limited```***. Click Create.***
