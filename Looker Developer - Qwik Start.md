@@ -1,17 +1,8 @@
 
 # ```Looker Developer - Qwik Start```
 
+### Solutions FOR Lab{here]()
 
-
-
-### First, on the bottom left of the Looker User Interface, click the toggle button to enter Development mode.
-
-![Alt text](https://cdn.qwiklabs.com/uUCbNuedSCOYQmL%2BIubjqvusmGAeS7Wjj3f6xByL174%3D)
-
-
-***Click the Develop tab and then select the qwiklabs-ecommerce LookML project.***
-
-***To create the file at the project’s root level, click the + button at the top of the file browser in the Looker IDE.***
 
 ***Select Create View. Name the file ***```users_limited```***. Click Create.***
 
@@ -124,12 +115,9 @@ explore: events {
 
 ```
 
-### Commit Changes and Deploy to Production
+### Commit Changes and Deploy to Productions
 
-1. Click **Validate LookML**.
-2. Click **Commit Changes & Push**.
-3. Add a commit message and click **Commit**.
-4. Lastly, click **Deploy to Production**.
-
-
-### Now check the score.
+### CONGRATGULATIONS !!!
+## PLEASE DO LIKE AND SUBSCRIBE FOR MORE ON DEVLABS.AI !!!
+### 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️😊❤️
+### SUBSCRIBE [Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
