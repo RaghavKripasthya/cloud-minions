@@ -2,7 +2,6 @@
 
 ## Solution [here](https://youtu.be/bx-D7ypXnWM)
 
-### Run the following Commands in CloudShell
 ```
 export API_KEY=
 ```
