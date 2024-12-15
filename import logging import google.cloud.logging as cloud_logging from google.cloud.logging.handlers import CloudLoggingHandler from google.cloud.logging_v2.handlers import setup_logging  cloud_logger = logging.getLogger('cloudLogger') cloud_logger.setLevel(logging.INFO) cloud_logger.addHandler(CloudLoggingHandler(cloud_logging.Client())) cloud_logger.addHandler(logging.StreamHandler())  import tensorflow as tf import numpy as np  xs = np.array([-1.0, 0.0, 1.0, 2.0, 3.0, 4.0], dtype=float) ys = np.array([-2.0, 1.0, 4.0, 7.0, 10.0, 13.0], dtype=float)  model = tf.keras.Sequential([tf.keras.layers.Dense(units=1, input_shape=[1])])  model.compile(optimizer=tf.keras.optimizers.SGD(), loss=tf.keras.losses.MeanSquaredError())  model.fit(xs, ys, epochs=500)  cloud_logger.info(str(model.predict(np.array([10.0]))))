@@ -1,8 +1,6 @@
 # TensorFlow: Qwik Start || [GSP637](https://www.cloudskillsboost.google/focuses/7639?parent=catalog) ||
 
-## Solution [here](https://youtu.be/Fx8csorAnSI)
-
-### Run the following Commands in Jupyter notebook terminal
+## Solution [here]()
 
 * Go to **Workbench** from [here](https://console.cloud.google.com/vertex-ai/workbench?)
 
@@ -41,12 +39,7 @@ model.fit(xs, ys, epochs=500)
 cloud_logger.info(str(model.predict(np.array([10.0]))))
 ```
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations !!!
+### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!!👇🏼👇🏼👇🏼👇🏼👇🏼⬇️😊❤️
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️😊❤️
+## Subscribe[Link Here]()
