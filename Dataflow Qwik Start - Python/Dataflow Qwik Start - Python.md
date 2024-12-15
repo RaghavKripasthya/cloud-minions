@@ -6,7 +6,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Dataflow%20Qwik%20Start%20-%20Python/gsp207.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Dataflow%20Qwik%20Start%20-%20Python/gsp207.sh
 
 sudo chmod +x gsp207.sh
 
