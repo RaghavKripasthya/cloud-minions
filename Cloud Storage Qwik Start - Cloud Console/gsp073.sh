@@ -38,6 +38,6 @@ gsutil cp gs://$DEVSHELL_PROJECT_ID/kitten.png gs://$DEVSHELL_PROJECT_ID/image-f
 
 gsutil iam ch allUsers:objectViewer gs://$DEVSHELL_PROJECT_ID
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab & Subscribe Devlabs.ai for More !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
