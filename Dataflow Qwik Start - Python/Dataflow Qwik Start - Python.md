@@ -1,8 +1,6 @@
 # Dataflow: Qwik Start - Python || [GSP207](https://www.cloudskillsboost.google/focuses/1100?parent=catalog) ||
 
-## Solution [here](https://youtu.be/Xa8OrPc6IQ8)
-
-### Run the following Commands in CloudShell
+## Solution [here]()
 
 ```
 export REGION=
@@ -17,12 +15,7 @@ sudo chmod +x gsp207.sh
 
 * Go to `Dataflow Jobs` from [here](https://console.cloud.google.com/dataflow/jobs?)
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations !!!
+## PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!!
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️😊❤️
+## SUBSCRIBE [Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
