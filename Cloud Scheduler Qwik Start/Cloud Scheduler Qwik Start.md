@@ -1,6 +1,6 @@
 # Cloud Scheduler: Qwik Start || [GSP401](https://www.cloudskillsboost.google/focuses/3556?parent=catalog) ||
 
-## Solution [here](https://youtu.be/7xwjJYiRzcg)
+## Solution [here](https://youtu.be/WGpw4pWMpZg)
 
 
 ```
