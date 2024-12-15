@@ -1,6 +1,6 @@
 # TensorFlow: Qwik Start || [GSP637](https://www.cloudskillsboost.google/focuses/7639?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/yCWD8zBAgqc)
 
 * Go to **Workbench** from [here](https://console.cloud.google.com/vertex-ai/workbench?)
 
@@ -42,4 +42,4 @@ cloud_logger.info(str(model.predict(np.array([10.0]))))
 ### Congratulations !!!
 ### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!!👇🏼👇🏼👇🏼👇🏼👇🏼⬇️😊❤️
 ## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️😊❤️
-## Subscribe[Link Here]()
+## Subscribe[Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
