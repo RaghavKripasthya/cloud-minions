@@ -4,7 +4,7 @@
 
 
 ```bash
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Mini%20lab%20Cloud%20Storage%204/devlabs4.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Mini%20lab%20Cloud%20Storage%204/devlabs4.sh
 
 sudo chmod +x devlabs4.sh
 
