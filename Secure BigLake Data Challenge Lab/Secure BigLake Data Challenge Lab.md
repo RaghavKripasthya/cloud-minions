@@ -1,6 +1,6 @@
 # Secure BigLake Data: Challenge Lab || [ARC129](https://www.cloudskillsboost.google/focuses/64458?parent=catalog) ||
 
-##  Solution [here]()
+##  Solution [here](https://youtu.be/bQgB5nD8H98)
 
 ```
  export USER_2=
@@ -16,4 +16,4 @@ sudo chmod +x arc129.sh
 ##  Congratulations !!!
 ## PLEASE DO LIKE & SUBSCRIBE DEVLABS.AI FOR MORE !!!
 ## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️😊❤️
-# Subscribe [Link Here]()
+# Subscribe [Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
