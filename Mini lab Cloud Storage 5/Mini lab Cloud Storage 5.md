@@ -3,11 +3,11 @@
 ## Solution [here]()
 
 ```bash
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Mini%20lab%20Cloud%20Storage%205/shell.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Mini%20lab%20Cloud%20Storage%205/devlabs5.sh
 
-sudo chmod +x shell.sh
+sudo chmod +x devlabs5.sh
 
-./shell.sh
+./devlabs5.sh
 ```
 
 ## Congratulations !!!
