@@ -1,23 +1,17 @@
 # mini lab : Cloud Storage : 4
 
-## 💡 Solution [here](https://youtu.be/yGuMVLZo890)
+## 💡 Solution [here]()
 
-### 🚀 Run the following commands in **Cloud Shell**:
 
 ```bash
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Mini%20lab%20Cloud%20Storage%204/shell.sh
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Mini%20lab%20Cloud%20Storage%204/devlabs4.sh
 
-sudo chmod +x shell.sh
+sudo chmod +x devlabs4.sh
 
-./shell.sh
+./devlabs4.sh
 ```
 
-## Congratulations 🎉 on Completing the Lab!
-
-##### You've showcased incredible effort and skill—great job!
-
-#### *Keep up the momentum—big things are on the horizon!*
-
-#### Don’t forget to join the [Telegram Channel](https://t.me/quickgcplab) 📱 & [Discussion Group](https://t.me/quickgcplabchats) 
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+## Congratulations !!
+## PLEASE DO LIKE & SUBSCRIBE DEVLABS.AI FOR MORE !!!
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️😊❤️
+## Subscibe [Link Here]()
