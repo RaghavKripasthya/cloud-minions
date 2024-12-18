@@ -1,6 +1,6 @@
 # mini lab : Cloud Storage : 1
 
-## 💡 Solution [here]()
+## Solution [here]()
 
 ```bash
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Mini%20lab%20Cloud%20Storage%201/shell.sh
