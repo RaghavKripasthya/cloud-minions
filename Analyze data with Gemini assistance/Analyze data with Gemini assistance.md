@@ -3,11 +3,11 @@
 ##  Solution [here]()  
 
 ```
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Analyze%20data%20with%20Gemini%20assistance/shell.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Analyze%20data%20with%20Gemini%20assistance/devlabsai.sh
 
-sudo chmod +x shell.sh
+sudo chmod +x devlabsai.sh
 
-./shell.sh
+./devlabsai.sh
 ```
 
 ### Congratulations!!!
