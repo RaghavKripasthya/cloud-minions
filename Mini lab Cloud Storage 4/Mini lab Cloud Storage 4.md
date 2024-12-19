@@ -1,6 +1,6 @@
 # mini lab : Cloud Storage : 4
 
-## 💡 Solution [here]()
+##  Solution [here]()
 
 
 ```bash
