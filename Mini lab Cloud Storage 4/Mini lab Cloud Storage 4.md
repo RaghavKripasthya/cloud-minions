@@ -1,6 +1,6 @@
 # mini lab : Cloud Storage : 4
 
-##  Solution [here]()
+##  Solution [here](https://youtu.be/6_GrsF2BPVA)
 
 
 ```bash
@@ -14,4 +14,4 @@ sudo chmod +x devlabs4.sh
 ## Congratulations !!
 ## PLEASE DO LIKE & SUBSCRIBE DEVLABS.AI FOR MORE !!!
 ## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️😊❤️
-## Subscibe [Link Here]()
+## Subscibe [Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
