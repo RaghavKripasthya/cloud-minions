@@ -1,6 +1,6 @@
 # [Configuring and Using Cloud Logging and Cloud Monitoring](https://www.cloudskillsboost.google/focuses/19183?parent=catalog)
 
-## Solution [here]()
+## Solution [here](https://youtu.be/r_F3QyT-EP0)
 
 
 ```
@@ -12,3 +12,6 @@ sudo chmod +x shell.sh
 ```
 
 ### Congratulations !!!
+## PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!!
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️😊❤️
+## Subscribe[Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
