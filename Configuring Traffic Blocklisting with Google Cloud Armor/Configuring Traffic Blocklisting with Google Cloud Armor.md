@@ -1,6 +1,6 @@
 # [Configuring Traffic Blocklisting with Google Cloud Armor](https://www.cloudskillsboost.google/focuses/19185?parent=catalog)
 
-## Solution [here]()
+## Solution [here](https://youtu.be/_3jXXqk5unc)
 
 
 ```
@@ -14,4 +14,4 @@ sudo chmod +x shell.sh
 ### Congratulations !!!
 ## PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!!
 ## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️😊❤️
-## Subscribe[Link Here]()
+## Subscribe[Link Here](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
