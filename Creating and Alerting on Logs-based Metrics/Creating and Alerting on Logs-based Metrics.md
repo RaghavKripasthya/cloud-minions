@@ -4,7 +4,7 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minons/main/Creating%20and%20Alerting%20on%20Logs-based%20Metrics/gsp091.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Creating%20and%20Alerting%20on%20Logs-based%20Metrics/gsp091.sh
 
 sudo chmod +x gsp091.sh
 
