@@ -1,6 +1,6 @@
 # Creating and Alerting on Logs-based Metrics || [GSP091](https://www.cloudskillsboost.google/focuses/619?parent=catalog) ||
 
-## Solution [here](https://youtu.be/5muqifJV51M)
+## Solution [here]()
 
 
 ```
@@ -12,3 +12,6 @@ sudo chmod +x gsp091.sh
 ```
 
 ### Congratulations !!!
+### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE!! 👇🏼👇🏼👇🏼😊❤️
+### 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️😊❤️
+### SUBSRIBE Link [HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
