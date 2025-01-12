@@ -157,6 +157,6 @@ gcloud alpha monitoring policies create --policy-from-file=awesome.json
 
 timeout 120 bash -c -- 'while true; do curl $(kubectl get services -n gmp-test -o jsonpath='{.items[*].status.loadBalancer.ingress[0].ip}')/error; sleep $((RANDOM % 4)) ; done'
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab | DO SUBSCRIBE DEVLABS.ai for MOre!!!!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
