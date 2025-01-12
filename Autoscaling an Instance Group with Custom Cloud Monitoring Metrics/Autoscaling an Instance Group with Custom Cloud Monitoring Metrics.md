@@ -1,6 +1,6 @@
 # Autoscaling an Instance Group with Custom Cloud Monitoring Metrics || [GSP087](https://www.cloudskillsboost.google/focuses/611?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/upGkXAqZucM)
 
 ```
 export ZONE=
@@ -16,5 +16,4 @@ sudo chmod +x gsp087.sh
 ### Congratulations !!!
 ### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE !!!👇🏼👇🏼👇🏼👇🏼👇🏼😊💡
 ### ⬇️⬇️⬇️⬇️⬇️👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊
-### SUBSCRIBE LINK [HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A
-)
+### SUBSCRIBE LINK [HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
