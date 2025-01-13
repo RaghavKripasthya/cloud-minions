@@ -145,6 +145,6 @@ kubectl get pods
 
 kubectl get pods
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab | Do Like And Subscribe DEVLABS.ai For More!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
