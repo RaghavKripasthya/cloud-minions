@@ -1,7 +1,6 @@
 # Running a MongoDB Database in Kubernetes with StatefulSets || [GSP022](https://www.cloudskillsboost.google/focuses/640?parent=catalog) ||
 
-## Solution [here](https://youtu.be/BgDhGANEdp4)
-
+## Solution [here](https://youtu.be/Wtkee24hn7o)
 
 ```
 export ZONE=
@@ -15,3 +14,6 @@ sudo chmod +x gsp022.sh
 ```
 
 ### Congratulations !!!
+### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.ai FOR MORE!!! 👇🏼👇🏼👇🏼👇🏼⬇️⬇️😊
+### 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️⬇️⬇️😊😊❤️
+### SUBSCRIBE [LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
