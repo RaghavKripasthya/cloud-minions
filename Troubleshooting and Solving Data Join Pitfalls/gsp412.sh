@@ -214,6 +214,6 @@ WHERE v2ProductCategory LIKE '%Clearance%'
 AND productSKU = 'GGOEGOLC013299';
 "
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab | DO SUBSCRIBE DEVLABS.ai FOR MORRE!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
