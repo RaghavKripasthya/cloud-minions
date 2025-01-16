@@ -33,6 +33,6 @@ gcloud sql instances create myinstance \
 
 gcloud sql databases create guestbook --instance=myinstance
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab | DO LIKE AND SUBSCRIBE DEVLABs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
