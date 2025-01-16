@@ -32,6 +32,6 @@ gcloud sql instances create myinstance \
     --storage-type=SSD \
     --storage-size=100GB
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab | DO SUBSCRIBE DEVLABS.ai FOR MORE !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
