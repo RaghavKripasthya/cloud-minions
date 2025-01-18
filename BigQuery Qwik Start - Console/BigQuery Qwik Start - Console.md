@@ -8,7 +8,7 @@ curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/BigQuery%
 
 sudo chmod +x gsp072.sh
 
-./gsp072.sh
+./gsp072.sh 
 ```
 
 ### Congratulations !!
