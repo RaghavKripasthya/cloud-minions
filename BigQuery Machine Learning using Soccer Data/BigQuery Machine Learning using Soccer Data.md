@@ -1,6 +1,6 @@
 # BigQuery Machine Learning using Soccer Data || [GSP851](https://www.cloudskillsboost.google/focuses/23293?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/JANkAhw_-YY)
 
 ```
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/BigQuery%20Machine%20Learning%20using%20Soccer%20Data/gsp851.sh
