@@ -83,6 +83,6 @@ ORDER BY
  PKSuccessRate DESC, numPKAtt DESC
 '
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab | Do Like And Subscribe Devlabs.ai !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
