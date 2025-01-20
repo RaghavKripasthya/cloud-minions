@@ -35,6 +35,6 @@ cd golang-samples/appengine/go11x/helloworld
 sudo apt-get install google-cloud-sdk-app-engine-go
 gcloud app deploy
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab | Do susbcribe Devlabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
