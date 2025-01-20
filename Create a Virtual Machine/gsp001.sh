@@ -54,6 +54,6 @@ gcloud compute ssh --zone "$ZONE" "gcelab" --project "$DEVSHELL_PROJECT_ID" --qu
 
 gcloud compute firewall-rules create allow-http --network=default --allow=tcp:80 --target-tags=allow-http
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab | Do Subscribe Devlabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
