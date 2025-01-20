@@ -2,7 +2,7 @@
 
 ## Solution [here](https://youtu.be/_8oTKwEKWHY)
 
-
+ 
 ```
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Creating%20a%20Virtual%20Machine/gsp001.sh
 
