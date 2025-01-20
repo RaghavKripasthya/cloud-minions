@@ -1,6 +1,6 @@
 # Creating Date-Partitioned Tables in BigQuery || [GSP414](https://www.cloudskillsboost.google/focuses/3694?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/PM6Y0cW-tws)
 
 ```
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Creating%20Date-Partitioned%20Tables%20in%20BigQuery/gsp414.sh
