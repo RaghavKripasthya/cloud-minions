@@ -1,6 +1,6 @@
 # BigQuery Soccer Data Ingestion || [GSP848](https://www.cloudskillsboost.google/focuses/23114?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/19POIDJZ8dQ)
 
 
 ```
