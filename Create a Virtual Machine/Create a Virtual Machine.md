@@ -1,6 +1,6 @@
 # Creating a Virtual Machine || [GSP001](https://www.cloudskillsboost.google/focuses/3563?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/_8oTKwEKWHY)
 
 
 ```
