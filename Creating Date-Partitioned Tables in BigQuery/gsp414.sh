@@ -100,6 +100,6 @@ bq query --use_legacy_sql=false '
    AND _TABLE_SUFFIX >= "2018"
 '
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab| Do subscribe Devlabs.ai !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${BLACK}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab| Do subscribe Devlabs.ai !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
