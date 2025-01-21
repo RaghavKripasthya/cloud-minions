@@ -68,6 +68,6 @@ gcloud compute instances create vm-appliance \
 --network-interface=network-tier=PREMIUM,stack-type=IPV4_ONLY,subnet=managementsubnet-1 \
 --network-interface=network-tier=PREMIUM,stack-type=IPV4_ONLY,subnet=mynetwork
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab | Do subscribe Devlabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
