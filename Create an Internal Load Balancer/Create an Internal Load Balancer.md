@@ -1,6 +1,6 @@
 # Create an Internal Load Balancer || [GSP216](https://www.cloudskillsboost.google/focuses/1250?parent=catalog) ||
 
-##  Solution [here](https://youtu.be/Ep1zgy8SvOs)
+##  Solution [here]()
 
 
 ```
