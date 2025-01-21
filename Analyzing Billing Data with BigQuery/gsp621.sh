@@ -50,6 +50,6 @@ bq query --use_legacy_sql=false \
 bq query --use_legacy_sql=false \
 'SELECT ROUND(SUM(cost),2) as Cost, project.name from `billing_dataset.enterprise_billing` GROUP BY project.name'
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab | Do Subscribe Devlabs.ai !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
