@@ -209,7 +209,7 @@ curl -X POST -H "Content-Type: application/json" \
   -d '{
     "backends": [
       {
-        "balancingMode": "CONNECTION",
+        "balancingMode": "CONNECTION", 
         "failover": false,
         "group": "projects/'"$DEVSHELL_PROJECT_ID"'/zones/'"$ZONE_1"'/instanceGroups/instance-group-1"
       },
