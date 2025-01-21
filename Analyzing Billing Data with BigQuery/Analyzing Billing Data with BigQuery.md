@@ -1,6 +1,6 @@
 # Analyzing Billing Data with BigQuery || [GSP621](https://www.cloudskillsboost.google/focuses/7114?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/mL6mWQchn4M)
 
 
 ```
