@@ -60,6 +60,6 @@ gcloud iam roles delete viewer --project $DEVSHELL_PROJECT_ID
 
 gcloud iam roles undelete viewer --project $DEVSHELL_PROJECT_ID
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${BLACK}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab | Do Sibscrib Devlabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
