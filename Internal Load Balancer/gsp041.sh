@@ -118,6 +118,6 @@ gcloud compute instances create frontend --zone=$ZONE \
 gcloud compute firewall-rules create http2 --network default --allow=tcp:80 \
 --source-ranges 0.0.0.0/0 --target-tags frontend
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | Subscribe Drevlabs.ai For More !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
