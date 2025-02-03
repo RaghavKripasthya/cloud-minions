@@ -93,6 +93,6 @@ cat redact-output.txt
 
 gsutil cp redact-output.txt gs://$DEVSHELL_PROJECT_ID-bucket
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
