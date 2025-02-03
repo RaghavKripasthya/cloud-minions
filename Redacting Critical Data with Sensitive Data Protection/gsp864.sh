@@ -62,6 +62,6 @@ gsutil cp redacted-string.txt gs://$BUCKET_NAME
 gsutil cp redacted-phone.png gs://$BUCKET_NAME
 gsutil cp redacted-email.png gs://$BUCKET_NAME
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | SUBSCRIBE DEVLABS.ai FOR MORE !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
