@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-miinions/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-1.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-1.sh
 
 sudo chmod +x gsp125-1.sh
 
