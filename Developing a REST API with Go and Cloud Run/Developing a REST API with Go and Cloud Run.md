@@ -1,6 +1,6 @@
 # Developing a REST API with Go and Cloud Run || [GSP761](https://www.cloudskillsboost.google/focuses/14662?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/3s_aqTpJSYU)
 
 
 ```
