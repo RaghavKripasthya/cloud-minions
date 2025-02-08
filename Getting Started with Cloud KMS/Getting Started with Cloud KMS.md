@@ -1,6 +1,6 @@
 # Getting Started with Cloud KMS || [GSP079](https://www.cloudskillsboost.google/focuses/1713?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/FA8QxiTA1TA)
 
 
 ```
