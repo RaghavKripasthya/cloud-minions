@@ -224,6 +224,6 @@ go build -o server
 gcloud builds submit \
   --tag gcr.io/$GOOGLE_CLOUD_PROJECT/rest-api:0.2
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | DO Subscribe DevLabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
