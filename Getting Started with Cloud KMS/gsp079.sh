@@ -79,6 +79,6 @@ done
 
 gsutil -m cp allen-p/inbox/*.encrypted gs://${BUCKET_NAME}/allen-p/inbox
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | DO Subscribe DevLabs.ai !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
