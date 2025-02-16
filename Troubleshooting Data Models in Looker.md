@@ -157,7 +157,7 @@ persist_with: training_ecommerce_default_datagroup
 label: "E-Commerce Training"
 explore: order_items {
 
-  query: techcps {
+  query: devlabsai {
     dimensions: [users.age, users.average_sales, users.country, users.id, users.state]
   }
   join: user_order_lifetime {
@@ -222,10 +222,10 @@ explore: events {
 
 ```
 
-### Kudos 🌟 on completing the lab!
-
-#### You’ve brilliantly showcased your talent and dedication.
-
-### Keep it up!
-
-### don't forget to follow [here](https://youtube.com/@hellodev1?si=1GE3_P0V8xbViLhc)
+### Congraulations!!!✨✨👇🏼⬇️😊
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+### DO JOIN OUR [TELEGRAM Link](https://t.me/+VsYwuNuMI9NiNzM9) 
+### DO JOIN WHATSAPP [Whatsapp Link](https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs)
+### 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️😊❤️
+### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE UPDATES !!!
+### SUBSCRIBE [LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
