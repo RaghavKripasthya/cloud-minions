@@ -1,6 +1,6 @@
 # Troubleshooting Data Models in Looker || GSP1019 ||
 
-### **Solution Video:** [Watch Here]()
+### **Solution Video:** [Watch Here](https://youtu.be/lfpdLQlxcQg)
 
 ### Step 1 .
 
