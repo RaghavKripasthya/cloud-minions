@@ -36,6 +36,6 @@ sleep 70
 
 gcloud container clusters delete lab-cluster
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab | DO LIKE AND SUBSCRIBE DEVLABS.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
