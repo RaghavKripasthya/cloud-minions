@@ -67,6 +67,6 @@ gcloud container clusters update private-cluster2 \
     --zone=$ZONE \
     --master-authorized-networks $NAT_IAP_Cloud/32
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | Do Subscribbe DEVLABS.ai For More!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
