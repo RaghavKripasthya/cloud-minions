@@ -1,6 +1,6 @@
 # Orchestrating the Cloud with Kubernetes || [GSP213](https://www.cloudskillsboost.google/focuses/557?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/JiQK4pnixNU)
 
 ```
 export ZONE=
