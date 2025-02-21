@@ -1,6 +1,6 @@
 # Google Kubernetes Engine: Qwik Start || [GSP100](https://www.cloudskillsboost.google/focuses/878?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/7aJRC7klWh4)
 
 ```
 export ZONE=
