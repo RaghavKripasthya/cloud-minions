@@ -1,6 +1,6 @@
 ## Google Kubernetes Engine Pipeline using Cloud Build || [GSP1077](https://www.cloudskillsboost.google/focuses/52829?parent=catalog) ||
 
-##  Solution [here]()
+##  Solution [here](https://youtu.be/7Y3E41C3J78)
 
 ###  Execute the Following Commands in Cloud Shell
 
