@@ -1,4 +1,4 @@
-![StandingOvationGIF](https://github.com/user-attachments/assets/8af3bb40-cb08-4456-854a-8b8a3286b7ba)# Google Kubernetes Engine Pipeline using Cloud Build || [GSP1077](https://www.cloudskillsboost.google/focuses/52829?parent=catalog) ||
+## Google Kubernetes Engine Pipeline using Cloud Build || [GSP1077](https://www.cloudskillsboost.google/focuses/52829?parent=catalog) ||
 
 ##  Solution [here]()
 
