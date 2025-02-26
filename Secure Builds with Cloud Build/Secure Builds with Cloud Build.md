@@ -6,9 +6,9 @@
 
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Secure%20Builds%20with%20Cloud%20Build/quicklabgsp1184.sh
-sudo chmod +x quicklabgsp1184.sh
-./quicklabgsp1184.sh
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Secure%20Builds%20with%20Cloud%20Build/devlabsai.sh
+sudo chmod +x devlabsai.sh
+./devlabsai.sh
 ```
 
 
