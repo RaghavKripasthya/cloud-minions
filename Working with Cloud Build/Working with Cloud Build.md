@@ -5,7 +5,7 @@
 ###  Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Working%20with%20Cloud%20Build/quicklab.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/master/Working%20with%20Cloud%20Build/quicklab.sh
 
 sudo chmod +x quicklab.sh
 
