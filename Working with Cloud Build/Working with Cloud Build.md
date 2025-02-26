@@ -1,35 +1,19 @@
 # Google Kubernetes Engine Pipeline using Cloud Build || [GSP1077](https://www.cloudskillsboost.google/focuses/52829?parent=catalog) ||
 
-## 🔑 Solution [here](https://youtu.be/zhZgk7naW2U)
+## 🔑 Solution [here]()
 
-**Prerequisites**
-
-* If you do not already have a **GitHub** account, you will need to create a [GitHub account](https://github.com/signup)
-
-**Recommendations**
-
-* Use an existing **GitHub** account if you have one. **GitHub** is more likely to block a new account as spam.
-
-* Configure [two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) on your GitHub account to reduce the chances of your account being marked as spam.
-
-### ⚙️ Execute the Following Commands in Cloud Shell
+###  Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Kubernetes%20Engine%20Pipeline%20using%20Cloud%20Build/gsp1077.sh
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Working%20with%20Cloud%20Build/quicklab.sh
 
-sudo chmod +x *.sh
+sudo chmod +x quicklab.sh
 
-./*.sh
+./quicklab.sh
 ```
 
-# 🎉 Woohoo! You Did It! 🎉  
+## Congratulations11
 
-Your hard work and determination paid off! 💻  
-You've successfully completed the lab. **Way to go!** 🚀
 
-### 💬 Stay Connected with Our Community!  
-👉 Join the conversation and never miss an update:  
-📢 [Telegram Channel](https://t.me/quickgcplab)  
-👥 [Discussion Group](https://t.me/quickgcplabchats)  
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+
