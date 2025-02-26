@@ -5,11 +5,11 @@
 ###  Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/master/Working%20with%20Cloud%20Build/quicklab.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/master/Working%20with%20Cloud%20Build/devlabsai.sh
 
-sudo chmod +x quicklab.sh
+sudo chmod +x devlabsai.sh
 
-./quicklab.sh
+./devlabsai.sh
 ```
 
 ## Congratulations11
