@@ -42,6 +42,6 @@ gcloud spanner databases ddl update example-db --instance=test-instance \
     BirthDate DATE,
     ) PRIMARY KEY(SingerId);"
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | Do subscribe Devlabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
