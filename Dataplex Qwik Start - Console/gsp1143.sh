@@ -48,6 +48,6 @@ gcloud dataplex zones delete temperature-raw-data --lake=sensors --location=$REG
 
 gcloud dataplex lakes delete sensors --location=$REGION --quiet
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab | Do subscribe Devlabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
