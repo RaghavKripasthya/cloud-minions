@@ -1,7 +1,7 @@
 ## Manage PostgreSQL Databases on Cloud SQL: Challenge Lab
 
 
-Database Migration Services require the ***Database Migration API*** and the ***Service Networking API*** to be enabled in order to function. You must enable these APIs for your project.
+DO Enable the API APIs ***Database Migration API*** and the ***Service Networking API*** to be enabled in order to function. You must enable these APIs for your project.
 
 ### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -193,6 +193,11 @@ gcloud sql instances clone $INSTANCE_ID  postgres-orders-pitr --point-in-time 'C
 #### 
 
 #### Congratulation !!!!
-
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+### DO JOIN OUR [TELEGRAM Link](https://t.me/+VsYwuNuMI9NiNzM9) 
+### DO JOIN WHATSAPP [Whatsapp Link](https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs)
+### 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️😊❤️
+### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE UPDATES !!!
+### SUBSCRIBE [LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
 
 
