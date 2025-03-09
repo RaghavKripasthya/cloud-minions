@@ -6,11 +6,11 @@
 
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Create%20a%20Custom%20Network%20and%20Apply%20Firewall%20Rules/quicklabgsp159.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/master/Create%20a%20Custom%20Network%20and%20Apply%20Firewall%20Rules/devlabsai.sh
 
-sudo chmod +x quicklabgsp159.sh
+sudo chmod +x devlabsai.sh
 
-./quicklabgsp159.sh
+./devlabsai.sh
 ```
 
 
