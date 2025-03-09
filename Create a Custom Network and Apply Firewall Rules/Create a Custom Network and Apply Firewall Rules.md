@@ -1,7 +1,7 @@
 
 ##  Create a Custom Network and Apply Firewall Rules | [GSP159](https://www.cloudskillsboost.google/focuses/102551?parent=catalog)
 
-###  **Solution Video:** [Watch Here](https://youtu.be/Lz6WptOwb68)
+###  **Solution Video:** [Watch Here](https://youtu.be/19_XSQvcigg)
 
 
 
