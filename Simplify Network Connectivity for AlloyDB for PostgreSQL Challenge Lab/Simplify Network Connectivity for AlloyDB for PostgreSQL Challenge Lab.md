@@ -5,9 +5,9 @@
 
 
 ```bash
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/master/Simplify%20Network%20Connectivity%20for%20AlloyDB%20for%20PostgreSQL%20Challenge%20Lab/quicklabgcc040.sh
-sudo chmod +x quicklabgcc040.sh
-./quicklabgcc040.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/master/Simplify%20Network%20Connectivity%20for%20AlloyDB%20for%20PostgreSQL%20Challenge%20Lab/devlabsai.sh
+sudo chmod +x devlabsai.sh
+./devlabsai.sh
 ```
 
 ```bash
