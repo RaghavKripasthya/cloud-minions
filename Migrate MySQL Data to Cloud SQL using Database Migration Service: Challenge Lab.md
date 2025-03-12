@@ -1,7 +1,7 @@
 
 ##  Migrate MySQL Data to Cloud SQL using Database Migration Service: Challenge Lab | [GSP351](https://www.cloudskillsboost.google/focuses/20393?parent=catalog)
 
-###  **Solution Video:** [Watch Here]()
+###  **Solution Video:** [Watch Here](https://youtu.be/kjwGIZTC9UI)
 
 
 ## **Task 1: Enable APIs**
