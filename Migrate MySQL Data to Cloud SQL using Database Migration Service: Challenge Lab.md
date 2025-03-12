@@ -26,7 +26,7 @@ To connect to the MySQL interactive console, now follow these steps:
 
 ---
 
-## **Task 4.2: Update Records in the Database**
+##  Update Records in the Database**
 
 Once connected to the MySQL console:
 
