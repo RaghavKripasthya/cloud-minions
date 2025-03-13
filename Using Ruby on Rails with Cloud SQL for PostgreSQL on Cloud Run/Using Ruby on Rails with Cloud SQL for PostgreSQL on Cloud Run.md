@@ -6,9 +6,9 @@
 
 
 ```bash
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Using%20Ruby%20on%20Rails%20with%20Cloud%20SQL%20for%20PostgreSQL%20on%20Cloud%20Run/quicklabgsp943.sh
-sudo chmod +x quicklabgsp943.sh
-./quicklabgsp943.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Using%20Ruby%20on%20Rails%20with%20Cloud%20SQL%20for%20PostgreSQL%20on%20Cloud%20Run/devlabsai943.sh
+sudo chmod +x devlabsai943.sh
+./devlabsai943.sh
 ```
 
 
