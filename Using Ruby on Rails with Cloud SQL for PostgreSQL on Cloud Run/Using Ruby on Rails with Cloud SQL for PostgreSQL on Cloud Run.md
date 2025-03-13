@@ -1,5 +1,5 @@
 
-## 🚀 Using Ruby on Rails with Cloud SQL for PostgreSQL on Cloud Run | [GSP943](https://www.cloudskillsboost.google/focuses/20049?parent=catalog)
+##  Using Ruby on Rails with Cloud SQL for PostgreSQL on Cloud Run | [GSP943](https://www.cloudskillsboost.google/focuses/20049?parent=catalog)
 
 ###  **Solution Video:** [Watch Here](https://youtu.be/clfiLt-GhvQ)
 
