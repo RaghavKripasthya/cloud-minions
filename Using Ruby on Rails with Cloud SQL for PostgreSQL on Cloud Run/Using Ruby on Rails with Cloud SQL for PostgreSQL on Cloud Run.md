@@ -15,10 +15,3 @@ sudo chmod +x devlabsai943.sh
 
 ### Comgratulations!!!
 
-
----
----
-
-**Keep up the great work and continue your learning journey!**
-
-# [QUICKLAB☁️](https://www.youtube.com/@quick_lab) - Don't Forget to Subscribe!
