@@ -5,11 +5,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/qwiklab_explorers.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/devlabsai.sh
 
-sudo chmod +x qwiklab_explorers.sh
+sudo chmod +x devlabsai.sh
 
-./qwiklab_explorers.sh
+./devlabsai.sh
 ```
 
 ---
