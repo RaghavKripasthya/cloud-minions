@@ -3,11 +3,11 @@
 
 Run the following commands in **Cloud Shell**:  
 ```bash
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/App%20Dev%20Storing%20Image%20and%20Video%20Files%20in%20Cloud%20Storage%20v1.1/devlabsai.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/App%20Dev%20Storing%20Image%20and%20Video%20Files%20in%20Cloud%20Storage%20v1.1/devlabsaisol.sh
 
-sudo chmod +x devlabsai.sh
+sudo chmod +x devlabsaisol.sh
 
-./devlabsai.sh
+./devlabsaisol.sh
 ```  
 ---
 
