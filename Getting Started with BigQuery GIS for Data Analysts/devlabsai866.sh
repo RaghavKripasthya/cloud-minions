@@ -18,6 +18,7 @@ UNDERLINE_TEXT=$'\033[4m'
 echo
 echo "${CYAN_TEXT}${BOLD_TEXT}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}                  Starting the process...                   ${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}                  Before Subcribe Devlabsai!!                  ${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
 
@@ -94,8 +95,8 @@ echo "${GREEN_TEXT}${BOLD_TEXT}The visualization should now display points on th
 
 echo
 echo "${GREEN_TEXT}${BOLD_TEXT}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}              Lab Completed Successfully!               ${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}        Finally Lab Completed Successfully!               ${RESET_FORMAT}"
 echo "${GREEN_TEXT}${BOLD_TEXT}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
-echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe our Channel:${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@Arcade61432${RESET_FORMAT}"
+echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe our Channel:${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A${RESET_FORMAT}"
 echo
