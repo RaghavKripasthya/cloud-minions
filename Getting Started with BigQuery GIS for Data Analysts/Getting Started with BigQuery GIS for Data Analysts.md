@@ -1,5 +1,4 @@
 #  **Getting Started with BigQuery GIS for Data Analysts || GSP866**  
-[![Open Lab](https://img.shields.io/badge/Open-Lab-brown?style=for-the-badge&logo=google-cloud&logoColor=blue)]
 
 Run the following commands in **Cloud Shell**:  
 ```bash
