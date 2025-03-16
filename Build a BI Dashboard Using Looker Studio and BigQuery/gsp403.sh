@@ -52,6 +52,6 @@ bq query \
     address,
     site_info"
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | DO Subscribe The Devlabsai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
