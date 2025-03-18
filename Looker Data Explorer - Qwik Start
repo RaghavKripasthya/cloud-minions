@@ -3,7 +3,7 @@ bash
 
 # Place in `faa` model
 explore: +airports {
-    query: quicklab_task_1 {
+    query: devlabsai_step_1 {
       measures: [average_elevation]
     }
   }
@@ -12,7 +12,7 @@ explore: +airports {
 
 # Place in `faa` model
 explore: +airports {
-    query: quicklab_task_2 {
+    query: devlabsai_step_2 {
       dimensions: [facility_type]
       measures: [average_elevation, count]
     }
