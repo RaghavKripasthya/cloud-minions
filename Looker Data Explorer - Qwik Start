@@ -1,15 +1,15 @@
-### Looker Data Explorer - Qwik Start[https://www.cloudskillsboost.google/games/5976/labs/38153]
+### Looker Data Explorer - Qwik Start||GSP718|| 
 
-
+```
 # Place in `faa` model
 explore: +airports {
     query: quicklab_task_1 {
       measures: [average_elevation]
     }
   }
+```
 
-
-
+```
 # Place in `faa` model
 explore: +airports {
     query: quicklab_task_2 {
@@ -17,4 +17,10 @@ explore: +airports {
       measures: [average_elevation, count]
     }
   }
-
+````
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+### DO JOIN OUR [TELEGRAM Link](https://t.me/+VsYwuNuMI9NiNzM9) 
+### DO JOIN WHATSAPP [Whatsapp Link](https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs)
+### 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️😊❤️
+### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE UPDATES !!!
+### SUBSCRIBE [LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
