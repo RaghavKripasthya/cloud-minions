@@ -1,5 +1,5 @@
 ### Looker Data Explorer - Qwik Start||GSP718|| 
-
+bash
 ```
 # Place in `faa` model
 explore: +airports {
@@ -8,7 +8,7 @@ explore: +airports {
     }
   }
 ```
-
+bash
 ```
 # Place in `faa` model
 explore: +airports {
