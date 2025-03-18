@@ -1,15 +1,15 @@
-### Looker Data Explorer - Qwik Start||GSP718|| 
+ Looker Data Explorer - Qwik Start||GSP718|| 
 bash
-```
+
 # Place in `faa` model
 explore: +airports {
     query: quicklab_task_1 {
       measures: [average_elevation]
     }
   }
-```
-bash
-```
+
+
+
 # Place in `faa` model
 explore: +airports {
     query: quicklab_task_2 {
@@ -17,7 +17,7 @@ explore: +airports {
       measures: [average_elevation, count]
     }
   }
-```
+
 ## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
 ### DO JOIN OUR [TELEGRAM Link](https://t.me/+VsYwuNuMI9NiNzM9) 
 ### DO JOIN WHATSAPP [Whatsapp Link](https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs)
