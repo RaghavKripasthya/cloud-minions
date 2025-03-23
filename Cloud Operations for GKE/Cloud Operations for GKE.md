@@ -5,9 +5,9 @@
 
 
 ```bash
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Cloud%20Operations%20for%20GKE/quicklabgsp497.sh
-sudo chmod +x quicklabgsp497.sh
-./quicklabgsp497.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Cloud%20Operations%20for%20GKE/devlabsaigsp497.sh
+sudo chmod +x devlabsaigsp497.sh
+./devlabsaigsp497.sh
 ```
 
 
