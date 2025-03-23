@@ -1,7 +1,7 @@
 
 ##  Cloud Operations for GKE | [GSP497](https://www.cloudskillsboost.google/focuses/5157?parent=catalog)
 
-###  **Solution Video:** [Watch Here]()
+###  **Solution Video:** [Watch Here](https://youtu.be/tGVMXSDLu10)
 
 
 ```bash
