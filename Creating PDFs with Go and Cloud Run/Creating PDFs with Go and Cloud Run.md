@@ -1,26 +1,23 @@
 # Creating PDFs with Go and Cloud Run || [GSP762](https://www.cloudskillsboost.google/focuses/14743?parent=catalog) ||
 
-## Solution [here](https://youtu.be/tCnqsJF_zqg)
+## Solution [here]()
 
-### Run the following Commands in CloudShell
 
 ```
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/gsp762.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/gsp762.sh
 
 sudo chmod +x gsp762.sh
 
 ./gsp762.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations !!!👇🏼👇🏼⬇️😊❤️
+## 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼😊❤️
+### DO JOIN OUR [TELEGRAM Link](https://t.me/+VsYwuNuMI9NiNzM9) 
+### DO JOIN WHATSAPP [Whatsapp Link](https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs)
+### 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼⬇️⬇️⬇️⬇️⬇️😊❤️
+### PLEASE DO LIKE AND SUBSCRIBE DEVLABS.AI FOR MORE UPDATES !!!
+### SUBSCRIBE [LINK HERE](https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A)
