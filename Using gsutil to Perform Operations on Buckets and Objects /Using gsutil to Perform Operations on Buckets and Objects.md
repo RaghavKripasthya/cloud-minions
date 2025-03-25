@@ -26,7 +26,7 @@ sudo chmod +x arcadecrew.sh
   </a>
   &nbsp;
   <a href="https://t.me/DevLabsai">
-    <img src="https://img.shields.io/badge/LINKEDIN-Gourav%20Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/LINKEDIN-Gourav%20Sen-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
 </a>
 
 
