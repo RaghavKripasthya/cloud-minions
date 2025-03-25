@@ -59,5 +59,5 @@ echo "${GREEN_TEXT}${BOLD_TEXT}=================================================
 echo "${GREEN_TEXT}${BOLD_TEXT}              LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
 echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
 echo ""
-echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel (Arcade Crew):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@Arcade61432${RESET_FORMAT}"
+echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel (DevLabs.ai):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}www.youtube.com/@DevLabs.ai-369${RESET_FORMAT}"
 echo
