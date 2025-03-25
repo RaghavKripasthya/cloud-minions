@@ -5,9 +5,12 @@
 ## Video Solutions[Watch Here]()
 
 ```bash
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Using%20gsutil%20to%20Perform%20Operations%20on%20Buckets%20and%20Objects/arcadecrew.sh
-sudo chmod +x arcadecrew.sh
-./arcadecrew.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Using%20gsutil%20to%20Perform%20Operations%20on%20Buckets%20and%20Objects/Devlabsaigsp130.sh
+
+sudo chmod +x Devlabsaigsp130.sh
+
+./Devlabsaigsp130.sh
+
 ```
 </div>
 
