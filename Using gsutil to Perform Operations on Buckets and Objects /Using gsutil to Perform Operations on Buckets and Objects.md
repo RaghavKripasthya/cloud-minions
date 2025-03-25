@@ -22,7 +22,7 @@ sudo chmod +x arcadecrew.sh
   </a>
   &nbsp;
   <a href="https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A">
-    <img src="https://img.shields.io/badge/Subscribe-Arcade%20Crew-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+    <img src="https://img.shields.io/badge/Subscribe-Devlabs%20ai-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
   &nbsp;
   <a href="https://t.me/DevLabsai">
