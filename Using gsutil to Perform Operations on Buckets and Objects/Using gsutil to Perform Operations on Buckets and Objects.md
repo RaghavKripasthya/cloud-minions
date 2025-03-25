@@ -2,7 +2,7 @@
 
 [![Lab Link](https://img.shields.io/badge/Open_Lab-Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.cloudskillsboost.google/focuses/7530?parent=catalog)
 
-## Video Solutions[Watch Here]()
+## Video Solutions[Watch Here](https://youtu.be/8j01Qeir884)
 
 ```bash
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Using%20gsutil%20to%20Perform%20Operations%20on%20Buckets%20and%20Objects/Devlabsaigsp130.sh
