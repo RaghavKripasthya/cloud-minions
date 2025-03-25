@@ -2,7 +2,7 @@
 
 [![Lab Link](https://img.shields.io/badge/Open_Lab-Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.youtube.com/@Arcade61432?sub_confirmation=1)
 
-## Video Solutions[Watch Here]()
+## Video Solutions[Watch Here](https://youtu.be/03HLqJB8xgQ)
 ```bash
 PROJECT_ID=$(gcloud config get-value project)
 
