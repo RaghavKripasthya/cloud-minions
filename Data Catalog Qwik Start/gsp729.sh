@@ -51,6 +51,6 @@ EOF
 gcloud data-catalog tags create --entry=${ENTRY_NAME} \
     --tag-template=demo_tag_template --tag-template-location=$LOCATION --tag-file=tag_file.json
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | Do Subscribe And Like The video DevLabsai !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
