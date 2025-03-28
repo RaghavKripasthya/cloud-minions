@@ -51,6 +51,6 @@ bq show --schema --format=prettyjson  demo_dataset.external_table > /tmp/schema
 
 bq update --external_table_definition=/tmp/tabledef.json --schema=/tmp/schema demo_dataset.external_table
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab | Do Subscribe DevLabs.ai For MOre !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
