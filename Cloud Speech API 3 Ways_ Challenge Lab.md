@@ -1,5 +1,5 @@
 ## Cloud Speech API 3 Ways: Challenge Lab || ARC132 || [Lab Link Here](https://www.cloudskillsboost.google/games/6059/labs/38576)
-## Lab Solution [Watch Here]()
+## Lab Solution [Watch Here](https://youtu.be/LEpM7-ybaWQ)
 
 
 
