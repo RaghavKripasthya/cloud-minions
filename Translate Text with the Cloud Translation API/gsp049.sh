@@ -35,6 +35,6 @@ API_KEY=$(gcloud alpha services api-keys get-key-string $KEY_NAME --format="valu
 
 echo $API_KEY
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_RED}${BOLD}Congratulations For Completing The Lab || DO Subscribe DevLabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
