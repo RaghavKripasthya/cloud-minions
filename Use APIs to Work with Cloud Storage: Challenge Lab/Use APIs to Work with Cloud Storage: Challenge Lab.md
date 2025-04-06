@@ -10,7 +10,7 @@ curl -LO https://raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/h
 sudo chmod +x devlabsarc125.sh
 ./devlabsarc125.sh
 ```
-
+## If Task 1 didnt Exceute copy this commands and exceute!!
 
 ```
 TASK 1 :
