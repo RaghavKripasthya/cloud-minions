@@ -1,7 +1,7 @@
 
 
 ### Use APIs to Work with Cloud Storage: Challenge Lab
-
+## Watch Solution Video[Watch Here](https://youtu.be/IDxRX-pYHW8)
 
 ```
 
