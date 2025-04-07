@@ -25,7 +25,6 @@ gcloud healthcare fhir-stores export bq de_id \
 
 ### OPEN BigQuery 
 
-    ```
     SELECT
       id AS patient_id,
       name[safe_offset(0)].given AS given_name,
@@ -33,7 +32,7 @@ gcloud healthcare fhir-stores export bq de_id \
       birthDate AS birth_date
     FROM dataset1.Patient
     LIMIT 10;
-    ```
+  
  **Run** the query to see the results.
 
 ## Congratulations!!👇🏼👇🏼👇🏼👇🏼⬇️😊❤️
