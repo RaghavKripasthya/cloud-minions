@@ -25,7 +25,7 @@ gcloud healthcare fhir-stores export bq de_id \
 
 ### OPEN BigQuery 
 
-    ```sql
+    ```
     SELECT
       id AS patient_id,
       name[safe_offset(0)].given AS given_name,
