@@ -4,33 +4,15 @@
 ### First, exports all the values from task 1 as showed.
 
 ```
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Ingesting%20FHIR%20Data%20with%20the%20Healthcare%20API/quicklabgsp457.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Ingesting%20FHIR%20Data%20with%20the%20Healthcare%20API/devlabsai457.sh
 
-sudo chmod +x quicklabgsp457.sh
+sudo chmod +x devlabsai457.sh
 
-./quicklabgsp457.sh
+./devlabsai457.sh
 ```
 
-### FHIR Data De-identification and Export to BigQuery
+### Now Follow The Lab Video Instructions!!
 
-### 🚀 FHIR Data De-identification
-
-1. **Click** the **Actions** button for `fhirstore1`.
-2. **From the dropdown**, select **De-identify**.
-3. **Select** `dataset1` as the dataset and `de_id` as the destination data store.
-4. **Click** **Append** for the pop-up.
-5. **Click** **Next**.
-6. **Click** **De-identify**.
-7. You can view progress in the **Operations tab** in the Console.
-8. **Click** on the **Data Stores** tab to view the datastores again once the operation is complete.
-
-    ⏳ **Wait for this operation to complete before moving to the next step.**
-
-## 📤 FHIR Bulk Export
-
-Using **Cloud Shell**, bulk export the FHIR data in `de_id` to the second BigQuery dataset created earlier. 
-
-Before running, ensure that the previous bulk export has completed.
 
 ```bash
 gcloud healthcare fhir-stores export bq de_id \
@@ -41,13 +23,7 @@ gcloud healthcare fhir-stores export bq de_id \
 ```
 
 
-### 🔍 Exploring Data in BigQuery
-
-1. In the **Cloud Console**, use the **Navigation menu** to open **BigQuery**.
-2. In the left pane, under **Resources**, select your **Project ID** and expand the drop-down. You should see the two recently created datasets named `dataset1` and `de_id`.
-3. Select `dataset1` and expand the drop-down.
-4. Navigate to the **Patient** table and preview the **Schema**.
-5. Click the **+ icon** to open a new **Query Editor** tab, then add the following SQL command to view patient data exported from the FHIR stores:
+### OPEN BigQuery 
 
     ```sql
     SELECT
@@ -58,8 +34,24 @@ gcloud healthcare fhir-stores export bq de_id \
     FROM dataset1.Patient
     LIMIT 10;
     ```
+ **Run** the query to see the results.
 
-6. **Run** the query to see the results.
+## Congratulations!!👇🏼👇🏼👇🏼👇🏼⬇️😊❤️
+<div align="center" style="padding: 5px;">
+  <h3>📱 Join the DevLabs.ai Community</h3>
+  
+  <a href="https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs">
+    <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A">
+    <img src="https://img.shields.io/badge/Subscribe-Devlabs%20ai-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+  </a>
+  &nbsp;
+  <a href="https://t.me/DevLabsai">
+    <img src="https://img.shields.io/badge/DevLabsai-chats%20&Updates-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+</a>
 
 
-## ```Congratulation !!! ```
+</div>
+
