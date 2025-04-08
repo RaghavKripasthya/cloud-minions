@@ -123,6 +123,6 @@ export DICOM_STORE_ID=dicomstore1
 
 gcloud beta healthcare dicom-stores import gcs $DICOM_STORE_ID --dataset=$DATASET_ID --location=$REGION --gcs-uri=gs://spls/gsp626/LungCT-Diagnosis/R_004/*
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab || Do Like And susbcribe Devlabs,ai !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
