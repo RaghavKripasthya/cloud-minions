@@ -63,6 +63,6 @@ gcloud pubsub subscriptions create hl7_subscription --topic=hl7topic
 
 gcloud healthcare hl7v2-stores create $HL7_STORE_ID --dataset=$DATASET_ID --location=$REGION --notification-config=pubsub-topic=projects/$PROJECT_ID/topics/hl7topic
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab || DO Susbscribe Devlabs.ai!!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
