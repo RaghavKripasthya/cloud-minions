@@ -1,23 +1,12 @@
 
-## 🚀 Optimizing Cost with Google Cloud Storage | [GSP649](https://www.cloudskillsboost.google/focuses/7830?parent=catalog)
+##  Optimizing Cost with Google Cloud Storage | [GSP649](https://www.cloudskillsboost.google/focuses/7830?parent=catalog)
 
-### 🔗 **Solution Video:** [Watch Here](https://youtu.be/emhMdGfjhC4)
+###  **Solution Video:** [Watch Here]()
 
----
-
-## ⚠️ **Disclaimer:**
-This script and guide are provided for educational purposes to help you understand the lab process. Before using the script, I encourage you to open and review it to understand each step. Please make sure you follow Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.
-
-
-## 🌐 **Quick Start Guide:**
-
-**Launch Cloud Shell:**
-Start your Google CloudShell session by [clicking here](https://console.cloud.google.com/home/dashboard?project=&pli=1&cloudshell=true).
-
-
+-
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Optimizing%20Cost%20with%20Google%20Cloud%20Storage/quicklabgsp649.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Optimizing%20Cost%20with%20Google%20Cloud%20Storage/quicklabgsp649.sh
 sudo chmod +x quicklabgsp649.sh
 ./quicklabgsp649.sh
 ```
