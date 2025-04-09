@@ -6,9 +6,9 @@
 ```
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Reinforcement%20Learning%20Qwik%20Start/gsp691.sh
 
-sudo chmod +x *.sh
+sudo chmod +x gsp691.sh
 
-./*.sh
+./gsp691.sh
 ```
 ## Congratulations!!!👇🏼👇🏼👇🏼👇🏼⬇️😊❤️
 <div align="center" style="padding: 5px;">
