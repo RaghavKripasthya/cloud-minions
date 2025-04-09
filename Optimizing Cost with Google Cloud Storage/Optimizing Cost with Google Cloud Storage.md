@@ -1,7 +1,7 @@
 
 ##  Optimizing Cost with Google Cloud Storage | [GSP649](https://www.cloudskillsboost.google/focuses/7830?parent=catalog)
 
-###  **Solution Video:** [Watch Here]()
+###  **Solution Video:** [Watch Here](https://youtu.be/w_LsXiBgBPk)
 
 
 ```bash
