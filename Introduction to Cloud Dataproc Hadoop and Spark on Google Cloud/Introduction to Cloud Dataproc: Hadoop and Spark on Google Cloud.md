@@ -1,5 +1,5 @@
 # Introduction to Cloud Dataproc: Hadoop and Spark on Google Cloud || GSP123 ✨
-## Video Solution[Watch Here]()
+## Video Solution[Watch Here](https://youtu.be/zB0E74ux_ew)
 
 ```bash
 curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Introduction%20to%20Cloud%20Dataproc%20Hadoop%20and%20Spark%20on%20Google%20Cloud/devlabsai123.sh
