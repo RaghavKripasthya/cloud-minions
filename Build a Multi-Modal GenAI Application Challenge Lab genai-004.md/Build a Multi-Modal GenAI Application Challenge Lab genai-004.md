@@ -2,7 +2,7 @@
 ## Video solutions[Watch Here]()
 
 ```bash
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Build%20a%20Multi-Modal%20GenAI%20Application%20Challenge%20Lab/devlabsai-004.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Build%20a%20Multi-Modal%20GenAI%20Application%20Challenge%20Lab/devlabsai-004.sh
 
 source devlabsai-004.sh
 ```
