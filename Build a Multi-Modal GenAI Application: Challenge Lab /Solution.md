@@ -10,7 +10,7 @@ export REGION=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/gcpsolution99/GCP-solution/main/Build%20a%20Multi-Modal%20GenAI%20Application%3A%20Challenge%20Lab/abhi.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Build%20a%20Multi-Modal%20GenAI%20Application%3A%20Challenge%20Lab/d
 source abhi.sh
 ```
 
