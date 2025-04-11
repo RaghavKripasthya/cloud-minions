@@ -22,7 +22,7 @@
     
 * **Follow Full Video, otherwise you will not get Full Score**
 ```bash
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Build%20a%20Multi-Modal%20GenAI%20Application%20Challenge%20Lab/arcadecrew.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/Build%20a%20Multi-Modal%20GenAI%20Application%20Challenge%20Lab/arcadecrew.sh
 
 source arcadecrew.sh
 ```
