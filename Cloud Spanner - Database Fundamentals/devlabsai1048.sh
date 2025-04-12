@@ -16,7 +16,7 @@ clear
 
 echo
 echo "${BLUE_BOLD}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
-echo "${BLUE_BOLD}          🚀 Welcome to Dr. Abhishek's Cloud Tutorial     ${RESET_FORMAT}"
+echo "${BLUE_BOLD}           🧠  Welcome to DevLabs.ai  🧠                      ${RESET_FORMAT}"
 echo "${BLUE_BOLD}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
 
@@ -69,9 +69,9 @@ gcloud spanner databases ddl update banking-db --instance=banking-instance --ddl
 
 echo
 echo "${GREEN_BOLD}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
-echo "${GREEN_BOLD}          🎉 Spanner Lab Completed Successfully!        ${RESET_FORMAT}"
+echo "${GREEN_BOLD}                 Completed Successfully!  😊❤️                ${RESET_FORMAT}"
 echo "${GREEN_BOLD}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
-echo -e "${YELLOW_BOLD}📺 Subscribe to my Channel:${RESET_FORMAT} ${BLUE_BOLD}https://www.youtube.com/@drabhishek.5460${RESET_FORMAT}"
-echo -e "${ORANGE_BOLD}📷 Follow on Instagram:${RESET_FORMAT} ${PURPLE_BOLD}https://www.instagram.com/drabhishek.5460/${RESET_FORMAT}"
+echo -e "${YELLOW_BOLD}📺 Subscribe to my Channel:${RESET_FORMAT} ${BLUE_BOLD}https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A${RESET_FORMAT}"
+echo -e "${ORANGE_BOLD}💬 Do Join Telegram and whatsapp:${RESET_FORMAT} ${PURPLE_BOLD}https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs${RESET_FORMAT}"
 echo
