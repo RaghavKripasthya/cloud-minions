@@ -1,5 +1,5 @@
 # Build a Multi-Modal GenAI Application: Challenge Lab || bb-ide-genai-004 
-## Video solution[Watch Here]()
+## Video solution[Watch Here](https://youtu.be/WON_rjp14TY)
 
 ```
 #!/bin/bash
