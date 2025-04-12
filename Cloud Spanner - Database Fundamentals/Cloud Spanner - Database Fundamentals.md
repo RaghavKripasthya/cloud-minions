@@ -1,5 +1,5 @@
 # Cloud Spanner - Database Fundamentals || GSP1048 ||
-## Video Solution[Watch Here]()
+## Video Solution[Watch Here](https://youtu.be/POwKWfJEbnc)
 
 ### Run the following Commands in CloudShell
 
