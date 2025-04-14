@@ -49,5 +49,5 @@ gcloud filestore instances create nfs-server \
 --network=name="default"
 
 # Final message
-echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel (Arcade Crew):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@Arcade61432${RESET_FORMAT}"
+echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel (Devlabs.ai):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A${RESET_FORMAT}"
 echo
