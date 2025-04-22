@@ -115,4 +115,4 @@ echo "${GREEN_TEXT}Table operations completed.${RESET_FORMAT}"
 set +e 
 
 echo
-echo "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel (Arcade Crew):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@Arcade61432${RESET_FORMAT}"
+echo "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel (DEVLABS.Ai):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}Do Subscribe FAST!!${RESET_FORMAT}"
