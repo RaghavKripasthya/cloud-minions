@@ -48,6 +48,6 @@ gcloud dataflow jobs run iotflow \
 --staging-location gs://$DEVSHELL_PROJECT_ID/temp \
 --parameters inputTopic=projects/pubsub-public-data/topics/taxirides-realtime,outputTableSpec=$DEVSHELL_PROJECT_ID:taxirides.realtime
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab || Do subscribe Devlabs.ai !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
