@@ -35,6 +35,6 @@ gcloud app create --region=$REGION
 
 yes | gcloud app deploy
 
-echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
+echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab || DO LIKE AND SUBSCRIBE DEVALBS.AI !!!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
