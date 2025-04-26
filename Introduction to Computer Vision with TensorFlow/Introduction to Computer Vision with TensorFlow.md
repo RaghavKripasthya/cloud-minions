@@ -1,6 +1,6 @@
 # Introduction to Computer Vision with TensorFlow || [GSP631](https://www.cloudskillsboost.google/focuses/43204?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/1zOzHuRLwc8)
 
 
 ```
