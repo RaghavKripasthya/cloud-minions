@@ -1,6 +1,6 @@
 # Tagging Dataplex Assets || [GSP1145](https://www.cloudskillsboost.google/focuses/62711?parent=catalog) ||
 
-## Solution [here]()
+## Solution [here](https://youtu.be/5FKc9Vrx39E)
 
 ```
 export REGION=
