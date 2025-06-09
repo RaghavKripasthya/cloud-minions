@@ -1,11 +1,11 @@
 
 <h1 align="center">
-✨  Modular Load Balancing with Terraform - Regional Load Balancer || GSP191 ✨
+ Modular Load Balancing with Terraform - Regional Load Balancer || GSP191 
 </h1>
 
 <div align="center">
 
-
+## Video Solution Watch Here()
 
 ```bash
 curl -LO https://github.com/RaghavKripasthya/cloud-minions/raw/refs/heads/main/Modular%20Load%20Balancing%20with%20Terraform%20-%20Regional%20Load%20Balancer/gsp191.sh
