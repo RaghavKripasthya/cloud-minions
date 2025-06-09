@@ -16,26 +16,26 @@ clear
 
 echo
 echo "${CYAN_TEXT}${BOLD_TEXT}===================================${RESET_FORMAT}"
-echo "${CYAN_TEXT}${BOLD_TEXT}🚀     INITIATING EXECUTION     🚀${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}     Starting EXECUTION            ${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}===================================${RESET_FORMAT}"
 echo
 
-echo "${YELLOW_TEXT}${BOLD_TEXT}🔍 Checking your default region...${RESET_FORMAT}"
+echo "${YELLOW_TEXT}${BOLD_TEXT} Checking your default region...${RESET_FORMAT}"
 echo
 
 export REGION=$(gcloud compute project-info describe \
 --format="value(commonInstanceMetadata.items[google-compute-default-region])")
 
-echo "${BLUE_TEXT}${BOLD_TEXT}🌍 Your default region is set to: ${REGION}${RESET_FORMAT}"
+echo "${BLUE_TEXT}${BOLD_TEXT} Your default region is set to: ${REGION}${RESET_FORMAT}"
 
 echo
-echo "${GREEN_TEXT}${BOLD_TEXT}📥 Cloning the Terraform Load Balancer example repository...${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}Cloning the Terraform Load Balancer example repository...${RESET_FORMAT}"
 echo
 
 git clone https://github.com/GoogleCloudPlatform/terraform-google-lb
 cd ~/terraform-google-lb/examples/basic
 
-echo "${CYAN_TEXT}${BOLD_TEXT}🔑 Fetching your active Google Cloud project ID...${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT} Fetching your active Google Cloud project ID...${RESET_FORMAT}"
 echo
 
 export GOOGLE_PROJECT=$(gcloud config get-value project)
@@ -69,6 +69,6 @@ echo
 yes | terraform apply --auto-approve
 
 echo
-echo "${MAGENTA_TEXT}${BOLD_TEXT}💖 IF YOU FOUND THIS HELPFUL, SUBSCRIBE ARCADE CREW! 👇${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@Arcade61432${RESET_FORMAT}"
+echo "${MAGENTA_TEXT}${BOLD_TEXT}💖 IF YOU FOUND THIS HELPFUL, SUBSCRIBE DevLabs.Ai For More! 👇${RESET_FORMAT}"
+echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A${RESET_FORMAT}"
 echo
