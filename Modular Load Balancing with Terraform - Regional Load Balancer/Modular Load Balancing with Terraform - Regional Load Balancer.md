@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## Video Solution [Watch Here]()
+## Video Solution [Watch Here](https://youtu.be/ZBzlNaFf1Zs)
 
 ```bash
 curl -LO https://github.com/RaghavKripasthya/cloud-minions/raw/refs/heads/main/Modular%20Load%20Balancing%20with%20Terraform%20-%20Regional%20Load%20Balancer/gsp191.sh
