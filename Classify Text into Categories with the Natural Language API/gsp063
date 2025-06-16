@@ -21,7 +21,7 @@ clear
 
 # Welcome message
 echo "${BLUE_TEXT}${BOLD_TEXT}=======================================${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}         Solution from Curio Bytes     ${RESET_FORMAT}"
+echo "${BLUE_TEXT}${BOLD_TEXT}         SubScribe DevLabs.ai          ${RESET_FORMAT}"
 echo "${BLUE_TEXT}${BOLD_TEXT}=======================================${RESET_FORMAT}"
 echo
 
@@ -82,5 +82,5 @@ bq mk --table $DEVSHELL_PROJECT_ID:news_classification_dataset.article_data arti
 
 # Completion message
 echo
-echo "${GREEN_TEXT}${BOLD_TEXT}------ Congratulations for Completing the lab !! ------${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}------ Congratulations for Completing the lab || Do Like And Subscribe DevLabs.Ai!! ------${RESET_FORMAT}"
 echo ""
