@@ -1,48 +1,32 @@
 
-## 🚀 APIs Explorer: Create and Update a Cluster | [GSP288](https://www.cloudskillsboost.google/focuses/3332?parent=catalog)
+## APIs Explorer: Create and Update a Cluster | [GSP288](https://www.cloudskillsboost.google/focuses/3332?parent=catalog)
 
-### 🔗 **Solution Video:** [Watch Here](https://youtu.be/3IpTUNA3V-o)
-
----
-
-## ⚠️ **Disclaimer:**
-This script and guide are provided for educational purposes to help you understand the lab process. Before using the script, I encourage you to open and review it to understand each step. Please make sure you follow Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.
-
-
-## 🌐 **Quick Start Guide:**
-
-**Launch Cloud Shell:**
-Start your Google CloudShell session by [clicking here](https://console.cloud.google.com/home/dashboard?project=&pli=1&cloudshell=true).
-
+###  **Solution Video:** [Watch Here]()
 
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/APIs%20Explorer%20Create%20and%20Update%20a%20Cluster/quicklabgsp288.sh
-sudo chmod +x quicklabgsp288.sh
-./quicklabgsp288.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/refs/heads/main/APIs%20Explorer%20Create%20and%20Update%20a%20Cluster/gsp288.sh
+sudo chmod +x gsp288.sh
+./gsp288.sh
 ```
-- This runs the script to set up your environment for the lab. It will provision resources and configure them as needed.
-
----
-
----
-
-## 🎉 **Lab Completed!**
-
-You've successfully completed the lab! Great job on working through the process.
-
-### 🌟 **Stay Connected!**
-
-- 🔔 **Join our [Telegram Channel](https://t.me/quiccklab)** for the latest updates.
-- 🗣 **Participate in the [Discussion Group](https://t.me/Quicklabchat)** to engage with other learners.
-- 💬 **Join our [Discord Server](https://discord.gg/7fAVf4USZn)** for more interactive discussions.
-- 💼 **Follow us on [LinkedIn](https://www.linkedin.com/company/quicklab-linkedin/)** for news and opportunities.
-- 🐦 **Follow us on [Twitter/X](https://x.com/quicklab7)** for the latest updates.
 
 
----
----
+## *Lab Completed!**
+<div align="center" style="padding: 5px;">
+  <h3>📱 Join the DevLabs.ai Community</h3>
+  
+  <a href="https://chat.whatsapp.com/BeGG0HXiM469i3WFMgm4qs">
+    <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCVFPYmP2CZvVmICxw7YHT8A">
+    <img src="https://img.shields.io/badge/Subscribe-Devlabs%20ai-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+  </a>
+  &nbsp;
+  <a href="https://t.me/DevLabsai">
+    <img src="https://img.shields.io/badge/DevLabsai-chats%20&Updates-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+</a>
 
-**Keep up the great work and continue your learning journey!**
 
-# [QUICKLAB☁️](https://www.youtube.com/@quick_lab) - Don't Forget to Subscribe!
+</div>
+
