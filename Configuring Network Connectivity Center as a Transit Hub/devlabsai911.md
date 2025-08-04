@@ -10,7 +10,7 @@
 ### Copy and run the below commands in Cloud Shell:
 
 ```
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloudminions/main/Configuring%20Network%20Connectivity%20Center%20as%20a%20Transit%20Hub/devlabsai911.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloud-minions/main/Configuring%20Network%20Connectivity%20Center%20as%20a%20Transit%20Hub/devlabsai911.sh
 sudo chmod +x devlabsai911.sh
 ./devlabsai911.sh
 ```
