@@ -10,16 +10,16 @@
 ### Copy and run the below commands in Cloud Shell:
 
 ```
-curl -LO raw.githubusercontent.com/RaghavKripasthya/cloudminions/main/Configuring%20Network%20Connectivity%20Center%20as%20a%20Transit%20Hub/techcps911.sh
-sudo chmod +x techcps911.sh
-./techcps911.sh
+curl -LO raw.githubusercontent.com/RaghavKripasthya/cloudminions/main/Configuring%20Network%20Connectivity%20Center%20as%20a%20Transit%20Hub/devlabsai911.sh
+sudo chmod +x devlabsai911.sh
+./devlabsai911.sh
 ```
 
 ---
 
-### Congratulations
+### Congratulations!!!✨✨😊
 
-
+👇🏼👇🏼👇🏼👇🏼✨✨✨⬇️⬇️⬇️😊
 
 <div align="center" style="padding: 5px;">
   <h3>📱 Join the DevLabs.ai Community</h3>
