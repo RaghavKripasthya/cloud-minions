@@ -2,7 +2,7 @@
 
 ### Lab Link: [Configuring Network Connectivity Center as a Transit Hub - GSP911](https://www.cloudskillsboost.google/focuses/18539?parent=catalog)
 
-###  Lab Solution [Watch Here](https://youtu.be/aUIhkVqhCmk)
+###  Lab Solution [Watch Here](https://youtu.be/6F0T7NawwmU)
 
 
 ---
